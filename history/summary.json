@@ -11,17 +11,17 @@
     "name": "Git",
     "url": "https://git.icarephone.com",
     "slug": "git",
-    "status": "down",
-    "uptime": "99.72%",
-    "time": 642
+    "status": "up",
+    "uptime": "94.69%",
+    "time": 771
   },
   {
     "name": "Proxy",
     "url": "https://proxy.icarephone.com",
     "slug": "proxy",
-    "status": "down",
-    "uptime": "93.42%",
-    "time": 2278
+    "status": "up",
+    "uptime": "88.66%",
+    "time": 2333
   },
   {
     "name": "Bot",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "up",
-    "uptime": "87.14%",
+    "uptime": "87.82%",
     "time": 1375
   }
 ]
