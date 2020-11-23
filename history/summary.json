@@ -35,8 +35,8 @@
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "down",
-    "uptime": "7.66%",
-    "time": 0
+    "status": "up",
+    "uptime": "4.57%",
+    "time": 1375
   }
 ]
