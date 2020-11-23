@@ -19,9 +19,9 @@
     "name": "Proxy",
     "url": "https://proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 5368
+    "status": "down",
+    "uptime": "99.76%",
+    "time": 2684
   },
   {
     "name": "Bot",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "up",
-    "uptime": "4.57%",
+    "uptime": "70.49%",
     "time": 1375
   }
 ]
