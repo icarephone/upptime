@@ -12,16 +12,16 @@
     "url": "https://git.icarephone.com",
     "slug": "git",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.25%",
     "time": 887
   },
   {
     "name": "Proxy",
     "url": "https://proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "96.49%",
-    "time": 2690
+    "status": "down",
+    "uptime": "96.58%",
+    "time": 2597
   },
   {
     "name": "Bot",
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.41%",
     "time": 1329
   }
 ]
