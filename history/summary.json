@@ -11,9 +11,9 @@
     "name": "Git",
     "url": "https://git.icarephone.com",
     "slug": "git",
-    "status": "down",
-    "uptime": "99.32%",
-    "time": 819
+    "status": "up",
+    "uptime": "99.19%",
+    "time": 845
   },
   {
     "name": "Proxy",
