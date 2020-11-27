@@ -3,9 +3,9 @@
     "name": "Icarephone",
     "url": "https://www.icarephone.com",
     "slug": "icarephone",
-    "status": "down",
-    "uptime": "100.00%",
-    "time": 1147
+    "status": "up",
+    "uptime": "99.87%",
+    "time": 1343
   },
   {
     "name": "Git",
@@ -20,7 +20,7 @@
     "url": "https://proxy.icarephone.com",
     "slug": "proxy",
     "status": "up",
-    "uptime": "97.07%",
+    "uptime": "97.08%",
     "time": 2568
   },
   {
