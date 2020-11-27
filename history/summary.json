@@ -3,16 +3,16 @@
     "name": "Icarephone",
     "url": "https://www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.87%",
-    "time": 1343
+    "status": "down",
+    "uptime": "99.86%",
+    "time": 1175
   },
   {
     "name": "Git",
     "url": "https://git.icarephone.com",
     "slug": "git",
     "status": "up",
-    "uptime": "99.14%",
+    "uptime": "99.15%",
     "time": 953
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://proxy.icarephone.com",
     "slug": "proxy",
     "status": "up",
-    "uptime": "97.10%",
+    "uptime": "97.14%",
     "time": 2568
   },
   {
@@ -36,7 +36,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "time": 1306
   }
 ]
