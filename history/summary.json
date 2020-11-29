@@ -4,7 +4,7 @@
     "url": "https://www.icarephone.com",
     "slug": "icarephone",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.61%",
     "time": 1248
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://git.icarephone.com",
     "slug": "git",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.41%",
     "time": 997
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://proxy.icarephone.com",
     "slug": "proxy",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.99%",
     "time": 2555
   },
   {
@@ -35,8 +35,8 @@
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.63%",
-    "time": 1317
+    "status": "down",
+    "uptime": "99.65%",
+    "time": 1216
   }
 ]
