@@ -20,7 +20,7 @@
     "url": "https://proxy.icarephone.com",
     "slug": "proxy",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "time": 2555
   },
   {
@@ -35,8 +35,8 @@
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "down",
-    "uptime": "99.65%",
-    "time": 1216
+    "status": "up",
+    "uptime": "99.46%",
+    "time": 1236
   }
 ]
