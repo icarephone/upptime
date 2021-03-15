@@ -45,7 +45,7 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -210,7 +210,7 @@
     "uptimeYear": "98.24%",
     "time": 1909,
     "timeDay": 1818,
-    "timeWeek": 1601,
+    "timeWeek": 1627,
     "timeMonth": 1730,
     "timeYear": 1909,
     "dailyMinutesDown": {
