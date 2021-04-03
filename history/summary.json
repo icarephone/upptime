@@ -115,15 +115,15 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "97.44%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "97.63%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "98.08%",
     "time": 3292,
     "timeDay": 2828,
-    "timeWeek": 2642,
+    "timeWeek": 2599,
     "timeMonth": 2929,
     "timeYear": 3292,
     "dailyMinutesDown": {
@@ -180,7 +180,7 @@
       "2020-12-03": 15,
       "2020-11-30": 16,
       "2020-11-26": 41,
-      "2020-11-25": 64
+      "2020-11-25": 56
     }
   },
   {
