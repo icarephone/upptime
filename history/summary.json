@@ -64,7 +64,7 @@
     "time": 1610,
     "timeDay": 1227,
     "timeWeek": 1161,
-    "timeMonth": 1271,
+    "timeMonth": 1253,
     "timeYear": 1610,
     "dailyMinutesDown": {
       "2021-04-13": 34,
@@ -223,18 +223,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "96.02%",
-    "uptimeDay": "94.84%",
+    "status": "down",
+    "uptime": "96.03%",
+    "uptimeDay": "94.82%",
     "uptimeWeek": "96.94%",
     "uptimeMonth": "91.18%",
-    "uptimeYear": "96.02%",
+    "uptimeYear": "96.03%",
     "time": 1770,
     "timeDay": 1247,
     "timeWeek": 1378,
     "timeMonth": 1392,
     "timeYear": 1770,
     "dailyMinutesDown": {
+      "2021-04-13": 0,
       "2021-04-12": 74,
       "2021-04-11": 29,
       "2021-04-10": 27,
@@ -298,8 +299,7 @@
       "2020-12-04": 32,
       "2020-11-30": 7,
       "2020-11-29": 17,
-      "2020-11-27": 7,
-      "2020-11-24": 8
+      "2020-11-27": 7
     }
   }
 ]
