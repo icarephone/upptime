@@ -220,12 +220,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "96.01%",
-    "uptimeDay": "95.65%",
+    "status": "down",
+    "uptime": "96.03%",
+    "uptimeDay": "95.64%",
     "uptimeWeek": "96.48%",
     "uptimeMonth": "91.07%",
-    "uptimeYear": "96.01%",
+    "uptimeYear": "96.03%",
     "time": 1765,
     "timeDay": 1310,
     "timeWeek": 1350,
@@ -294,8 +294,7 @@
       "2020-12-10": 34,
       "2020-12-09": 8,
       "2020-12-04": 32,
-      "2020-11-30": 7,
-      "2020-11-29": 17
+      "2020-11-30": 7
     }
   }
 ]
