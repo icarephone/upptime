@@ -60,19 +60,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
-    "uptime": "98.38%",
-    "uptimeDay": "96.00%",
-    "uptimeWeek": "95.21%",
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "95.20%",
     "uptimeMonth": "97.49%",
-    "uptimeYear": "98.38%",
+    "uptimeYear": "98.41%",
     "time": 1587,
     "timeDay": 1165,
     "timeWeek": 1239,
-    "timeMonth": 1207,
+    "timeMonth": 1205,
     "timeYear": 1587,
     "dailyMinutesDown": {
-      "2021-04-17": 57,
+      "2021-04-17": 58,
       "2021-04-16": 40,
       "2021-04-15": 40,
       "2021-04-14": 176,
@@ -115,8 +115,7 @@
       "2021-01-29": 18,
       "2021-01-16": 142,
       "2021-01-14": 64,
-      "2021-01-12": 72,
-      "2021-01-11": 45
+      "2021-01-12": 72
     }
   },
   {
@@ -126,12 +125,12 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "78.28%",
+    "uptimeDay": "80.17%",
     "uptimeWeek": "88.35%",
     "uptimeMonth": "95.36%",
     "uptimeYear": "98.20%",
     "time": 3177,
-    "timeDay": 3268,
+    "timeDay": 3231,
     "timeWeek": 2909,
     "timeMonth": 2707,
     "timeYear": 3177,
@@ -206,16 +205,16 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "96.14%",
-    "uptimeDay": "96.80%",
+    "status": "down",
+    "uptime": "96.17%",
+    "uptimeDay": "96.78%",
     "uptimeWeek": "94.34%",
     "uptimeMonth": "90.11%",
-    "uptimeYear": "96.14%",
+    "uptimeYear": "96.17%",
     "time": 1725,
     "timeDay": 1140,
     "timeWeek": 1145,
-    "timeMonth": 1270,
+    "timeMonth": 1272,
     "timeYear": 1725,
     "dailyMinutesDown": {
       "2021-04-17": 20,
@@ -273,8 +272,7 @@
       "2021-01-21": 59,
       "2021-01-17": 54,
       "2021-01-13": 57,
-      "2021-01-12": 19,
-      "2021-01-06": 39
+      "2021-01-12": 19
     }
   }
 ]
