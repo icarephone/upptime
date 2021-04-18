@@ -61,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "93.89%",
     "uptimeWeek": "94.91%",
     "uptimeMonth": "97.42%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.42%",
     "time": 1582,
     "timeDay": 1169,
     "timeWeek": 1225,
@@ -123,9 +123,9 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "88.19%",
+    "uptimeDay": "88.18%",
     "uptimeWeek": "88.33%",
     "uptimeMonth": "95.27%",
     "uptimeYear": "98.23%",
@@ -165,8 +165,7 @@
       "2021-02-24": 6,
       "2021-02-23": 17,
       "2021-02-22": 73,
-      "2021-02-21": 24,
-      "2021-02-20": 11
+      "2021-02-21": 24
     }
   },
   {
