@@ -61,19 +61,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "97.15%",
+    "status": "down",
+    "uptime": "98.66%",
+    "uptimeDay": "98.48%",
+    "uptimeWeek": "97.22%",
     "uptimeMonth": "96.28%",
-    "uptimeYear": "98.65%",
+    "uptimeYear": "98.66%",
     "time": 1562,
     "timeDay": 1030,
-    "timeWeek": 1619,
+    "timeWeek": 1587,
     "timeMonth": 1275,
     "timeYear": 1562,
     "dailyMinutesDown": {
-      "2021-04-30": 21,
+      "2021-04-30": 22,
       "2021-04-28": 69,
       "2021-04-27": 58,
       "2021-04-26": 70,
@@ -116,8 +116,7 @@
       "2021-02-16": 34,
       "2021-02-14": 28,
       "2021-02-13": 51,
-      "2021-02-11": 23,
-      "2021-02-10": 14
+      "2021-02-11": 23
     }
   },
   {
@@ -128,13 +127,13 @@
     "status": "up",
     "uptime": "98.23%",
     "uptimeDay": "95.89%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "93.31%",
+    "uptimeWeek": "96.07%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "98.23%",
     "time": 3128,
     "timeDay": 4064,
-    "timeWeek": 2930,
-    "timeMonth": 2737,
+    "timeWeek": 2896,
+    "timeMonth": 2751,
     "timeYear": 3128,
     "dailyMinutesDown": {
       "2021-04-30": 59,
@@ -208,15 +207,15 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "96.66%",
-    "uptimeDay": "91.52%",
-    "uptimeWeek": "94.91%",
-    "uptimeMonth": "89.43%",
-    "uptimeYear": "96.66%",
+    "status": "down",
+    "uptime": "96.68%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "90.76%",
+    "uptimeYear": "96.68%",
     "time": 1656,
-    "timeDay": 935,
-    "timeWeek": 1305,
+    "timeDay": 932,
+    "timeWeek": 1299,
     "timeMonth": 1253,
     "timeYear": 1656,
     "dailyMinutesDown": {
@@ -261,7 +260,7 @@
       "2021-02-23": 32,
       "2021-02-22": 21,
       "2021-02-19": 17,
-      "2021-02-16": 34
+      "2021-02-16": 24
     }
   }
 ]
