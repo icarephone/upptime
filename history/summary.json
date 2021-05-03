@@ -127,14 +127,14 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "93.60%",
-    "uptimeWeek": "95.94%",
-    "uptimeMonth": "93.22%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "96.84%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "98.25%",
     "time": 3131,
     "timeDay": 2123,
-    "timeWeek": 3081,
-    "timeMonth": 2795,
+    "timeWeek": 3091,
+    "timeMonth": 2791,
     "timeYear": 3131,
     "dailyMinutesDown": {
       "2021-05-03": 28,
@@ -209,12 +209,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "96.69%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "95.08%",
+    "status": "down",
+    "uptime": "96.70%",
+    "uptimeDay": "96.81%",
+    "uptimeWeek": "95.07%",
     "uptimeMonth": "95.49%",
-    "uptimeYear": "96.69%",
+    "uptimeYear": "96.70%",
     "time": 1645,
     "timeDay": 1272,
     "timeWeek": 1269,
@@ -261,8 +261,7 @@
       "2021-02-27": 23,
       "2021-02-26": 20,
       "2021-02-25": 11,
-      "2021-02-24": 54,
-      "2021-02-23": 12
+      "2021-02-24": 54
     }
   }
 ]
