@@ -74,15 +74,15 @@
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.29%",
-    "uptimeMonth": "95.82%",
-    "uptimeYear": "98.74%",
+    "uptimeMonth": "95.89%",
+    "uptimeYear": "98.75%",
     "time": 1495,
     "timeDay": 940,
     "timeWeek": 1231,
-    "timeMonth": 1274,
+    "timeMonth": 1237,
     "timeYear": 1495,
     "dailyMinutesDown": {
       "2021-05-26": 127,
@@ -129,19 +129,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "97.33%",
+    "status": "down",
+    "uptime": "98.75%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "97.32%",
     "uptimeMonth": "96.63%",
-    "uptimeYear": "98.74%",
+    "uptimeYear": "98.75%",
     "time": 3010,
-    "timeDay": 1869,
+    "timeDay": 1636,
     "timeWeek": 2288,
     "timeMonth": 2528,
     "timeYear": 3010,
     "dailyMinutesDown": {
-      "2021-05-27": 30,
+      "2021-05-27": 31,
       "2021-05-26": 93,
       "2021-05-25": 34,
       "2021-05-24": 26,
@@ -174,7 +174,7 @@
       "2021-04-20": 69,
       "2021-04-19": 174,
       "2021-04-18": 87,
-      "2021-04-17": 132
+      "2021-04-17": 124
     }
   },
   {
@@ -229,15 +229,15 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "94.04%",
-    "uptimeMonth": "94.14%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "94.20%",
+    "uptimeMonth": "94.16%",
     "uptimeYear": "98.75%",
     "time": 1543,
     "timeDay": 1356,
-    "timeWeek": 1258,
+    "timeWeek": 1261,
     "timeMonth": 1212,
     "timeYear": 1543,
     "dailyMinutesDown": {
@@ -268,7 +268,7 @@
       "2021-05-01": 70,
       "2021-04-30": 78,
       "2021-04-29": 58,
-      "2021-04-28": 27
+      "2021-04-28": 18
     }
   }
 ]
