@@ -260,9 +260,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "89.03%",
+    "uptimeDay": "89.01%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "95.42%",
     "uptimeYear": "98.59%",
@@ -305,7 +305,7 @@
       "2021-05-08": 181,
       "2021-05-07": 211,
       "2021-05-06": 130,
-      "2021-05-05": 29
+      "2021-05-05": 20
     }
   }
 ]
