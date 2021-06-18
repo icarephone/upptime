@@ -209,11 +209,11 @@
     "icon": "https://favicons.githubusercontent.com/bot.icarephone.com",
     "slug": "bot",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "98.99%",
     "uptimeWeek": "70.72%",
     "uptimeMonth": "93.07%",
-    "uptimeYear": "98.09%",
+    "uptimeYear": "98.10%",
     "time": 1018,
     "timeDay": 824,
     "timeWeek": 877,
@@ -262,12 +262,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "92.11%",
-    "uptimeWeek": "96.32%",
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "92.09%",
+    "uptimeWeek": "96.31%",
     "uptimeMonth": "95.23%",
-    "uptimeYear": "98.63%",
+    "uptimeYear": "98.64%",
     "time": 1523,
     "timeDay": 1999,
     "timeWeek": 1487,
@@ -306,7 +306,7 @@
       "2021-05-10": 27,
       "2021-05-09": 166,
       "2021-05-08": 181,
-      "2021-05-07": 149
+      "2021-05-07": 133
     }
   }
 ]
