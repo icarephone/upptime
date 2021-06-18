@@ -148,7 +148,7 @@
     "status": "up",
     "uptime": "98.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.39%",
+    "uptimeWeek": "98.61%",
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.85%",
     "time": 2957,
@@ -209,9 +209,9 @@
     "url": "https://bot.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/bot.icarephone.com",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.10%",
-    "uptimeDay": "98.99%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "70.72%",
     "uptimeMonth": "93.07%",
     "uptimeYear": "98.10%",
@@ -221,7 +221,7 @@
     "timeMonth": 937,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2021-06-18": 15,
+      "2021-06-18": 16,
       "2021-06-17": 105,
       "2021-06-16": 0,
       "2021-06-15": 88,
@@ -263,9 +263,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
-    "uptimeDay": "87.86%",
+    "uptimeDay": "87.84%",
     "uptimeWeek": "95.58%",
     "uptimeMonth": "95.08%",
     "uptimeYear": "98.64%",
@@ -307,7 +307,7 @@
       "2021-05-10": 27,
       "2021-05-09": 166,
       "2021-05-08": 181,
-      "2021-05-07": 72
+      "2021-05-07": 58
     }
   }
 ]
