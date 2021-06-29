@@ -146,13 +146,13 @@
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
     "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "95.94%",
+    "uptime": "98.98%",
+    "uptimeDay": "97.47%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "98.28%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "98.98%",
     "time": 2923,
-    "timeDay": 2328,
+    "timeDay": 2147,
     "timeWeek": 2187,
     "timeMonth": 2259,
     "timeYear": 2923,
@@ -272,9 +272,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "97.39%",
+    "uptimeDay": "97.37%",
     "uptimeWeek": "95.37%",
     "uptimeMonth": "94.75%",
     "uptimeYear": "98.80%",
@@ -284,6 +284,7 @@
     "timeMonth": 1285,
     "timeYear": 1494,
     "dailyMinutesDown": {
+      "2021-06-29": 0,
       "2021-06-28": 38,
       "2021-06-27": 81,
       "2021-06-26": 131,
@@ -315,8 +316,7 @@
       "2021-05-23": 172,
       "2021-05-22": 73,
       "2021-05-20": 50,
-      "2021-05-19": 8,
-      "2021-05-18": 7
+      "2021-05-19": 8
     }
   }
 ]
