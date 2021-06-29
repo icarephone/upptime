@@ -146,18 +146,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "97.47%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "97.42%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "98.28%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 2923,
     "timeDay": 2147,
     "timeWeek": 2187,
     "timeMonth": 2259,
     "timeYear": 2923,
     "dailyMinutesDown": {
+      "2021-06-29": 1,
       "2021-06-28": 58,
       "2021-06-27": 22,
       "2021-06-26": 36,
@@ -206,7 +207,7 @@
       "2021-05-01": 22,
       "2021-04-30": 67,
       "2021-04-26": 170,
-      "2021-04-25": 113
+      "2021-04-25": 76
     }
   },
   {
@@ -274,10 +275,10 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "95.55%",
-    "uptimeWeek": "95.11%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "95.10%",
     "uptimeMonth": "94.69%",
     "uptimeYear": "98.80%",
     "time": 1493,
@@ -317,8 +318,7 @@
       "2021-05-24": 124,
       "2021-05-23": 172,
       "2021-05-22": 73,
-      "2021-05-20": 50,
-      "2021-05-19": 8
+      "2021-05-20": 50
     }
   }
 ]
