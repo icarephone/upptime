@@ -8,7 +8,7 @@
     "uptime": "98.78%",
     "uptimeDay": "98.18%",
     "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.17%",
+    "uptimeMonth": "99.28%",
     "uptimeYear": "98.78%",
     "time": 1393,
     "timeDay": 1153,
@@ -149,12 +149,12 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "93.53%",
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "93.51%",
     "uptimeWeek": "97.09%",
     "uptimeMonth": "98.17%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 2912,
     "timeDay": 2485,
     "timeWeek": 2491,
@@ -211,8 +211,7 @@
       "2021-05-05": 81,
       "2021-05-04": 100,
       "2021-05-03": 112,
-      "2021-05-02": 128,
-      "2021-05-01": 22
+      "2021-05-02": 128
     }
   },
   {
