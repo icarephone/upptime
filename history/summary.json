@@ -4,9 +4,9 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "95.79%",
+    "uptimeDay": "95.77%",
     "uptimeWeek": "98.23%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.77%",
@@ -82,7 +82,7 @@
       "2020-12-09": 12,
       "2020-12-08": 16,
       "2020-12-04": 33,
-      "2020-12-02": 19
+      "2020-12-02": 11
     }
   },
   {
@@ -155,7 +155,7 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "94.71%",
+    "uptimeDay": "94.73%",
     "uptimeWeek": "96.14%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.09%",
