@@ -87,9 +87,9 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "98.29%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "98.09%",
     "uptimeMonth": "98.14%",
     "uptimeYear": "98.96%",
@@ -142,7 +142,7 @@
       "2021-05-11": 92,
       "2021-05-10": 140,
       "2021-05-09": 109,
-      "2021-05-08": 80
+      "2021-05-08": 72
     }
   },
   {
@@ -289,9 +289,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "94.96%",
+    "uptimeDay": "94.94%",
     "uptimeWeek": "98.38%",
     "uptimeMonth": "96.23%",
     "uptimeYear": "98.90%",
@@ -334,7 +334,7 @@
       "2021-05-27": 103,
       "2021-05-26": 57,
       "2021-05-25": 118,
-      "2021-05-24": 26
+      "2021-05-24": 6
     }
   }
 ]
