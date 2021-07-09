@@ -4,14 +4,14 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "94.86%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "95.62%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "98.90%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 1395,
-    "timeDay": 1732,
+    "timeDay": 1631,
     "timeWeek": 1393,
     "timeMonth": 1247,
     "timeYear": 1395,
@@ -80,8 +80,7 @@
       "2020-12-15": 18,
       "2020-12-11": 31,
       "2020-12-10": 17,
-      "2020-12-09": 12,
-      "2020-12-08": 16
+      "2020-12-09": 12
     }
   },
   {
@@ -292,12 +291,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "96.71%",
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "96.69%",
     "uptimeWeek": "98.63%",
     "uptimeMonth": "96.29%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.91%",
     "time": 1482,
     "timeDay": 1274,
     "timeWeek": 1295,
@@ -337,7 +336,7 @@
       "2021-05-27": 103,
       "2021-05-26": 57,
       "2021-05-25": 118,
-      "2021-05-24": 124
+      "2021-05-24": 26
     }
   }
 ]
