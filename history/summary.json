@@ -4,12 +4,12 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "96.83%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "96.81%",
     "uptimeWeek": "97.89%",
     "uptimeMonth": "98.96%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 1395,
     "timeDay": 1820,
     "timeWeek": 1393,
@@ -81,8 +81,7 @@
       "2020-12-11": 31,
       "2020-12-10": 17,
       "2020-12-09": 12,
-      "2020-12-08": 16,
-      "2020-12-04": 33
+      "2020-12-08": 16
     }
   },
   {
@@ -154,12 +153,12 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.10%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "96.72%",
+    "status": "down",
+    "uptime": "99.11%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "97.97%",
-    "uptimeYear": "99.10%",
+    "uptimeYear": "99.11%",
     "time": 2904,
     "timeDay": 3206,
     "timeWeek": 2602,
@@ -219,7 +218,7 @@
       "2021-05-07": 95,
       "2021-05-06": 65,
       "2021-05-05": 81,
-      "2021-05-04": 60
+      "2021-05-04": 41
     }
   },
   {
@@ -230,7 +229,7 @@
     "status": "up",
     "uptime": "98.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "92.37%",
     "uptimeYear": "98.17%",
     "time": 1007,
@@ -293,18 +292,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.10%",
     "uptimeMonth": "96.40%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.89%",
     "time": 1482,
     "timeDay": 1167,
     "timeWeek": 1287,
     "timeMonth": 1274,
     "timeYear": 1482,
     "dailyMinutesDown": {
+      "2021-07-09": 0,
       "2021-07-08": 37,
       "2021-07-07": 18,
       "2021-07-03": 37,
@@ -337,8 +337,7 @@
       "2021-05-27": 103,
       "2021-05-26": 57,
       "2021-05-25": 118,
-      "2021-05-24": 124,
-      "2021-05-23": 42
+      "2021-05-24": 124
     }
   }
 ]
