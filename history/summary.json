@@ -4,12 +4,12 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "80.76%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "80.89%",
     "uptimeWeek": "94.51%",
     "uptimeMonth": "98.08%",
-    "uptimeYear": "98.80%",
+    "uptimeYear": "98.81%",
     "time": 1422,
     "timeDay": 2268,
     "timeWeek": 1712,
@@ -65,8 +65,7 @@
       "2021-04-02": 26,
       "2021-04-01": 29,
       "2021-03-25": 41,
-      "2021-03-01": 13,
-      "2021-02-26": 8
+      "2021-03-01": 13
     }
   },
   {
@@ -135,16 +134,16 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "60.23%",
-    "uptimeWeek": "90.74%",
-    "uptimeMonth": "96.55%",
-    "uptimeYear": "99.07%",
+    "status": "down",
+    "uptime": "99.08%",
+    "uptimeDay": "60.87%",
+    "uptimeWeek": "90.85%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "99.08%",
     "time": 2899,
-    "timeDay": 2825,
-    "timeWeek": 2671,
-    "timeMonth": 2474,
+    "timeDay": 2822,
+    "timeWeek": 2694,
+    "timeMonth": 2477,
     "timeYear": 2899,
     "dailyMinutesDown": {
       "2021-07-10": 521,
@@ -194,7 +193,7 @@
       "2021-05-15": 36,
       "2021-05-14": 8,
       "2021-05-13": 49,
-      "2021-05-12": 107
+      "2021-05-12": 77
     }
   },
   {
@@ -270,7 +269,7 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "80.80%",
+    "uptimeDay": "80.95%",
     "uptimeWeek": "95.80%",
     "uptimeMonth": "95.59%",
     "uptimeYear": "99.15%",
