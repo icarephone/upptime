@@ -4,9 +4,9 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "86.89%",
+    "uptimeDay": "86.87%",
     "uptimeWeek": "96.32%",
     "uptimeMonth": "98.56%",
     "uptimeYear": "98.80%",
@@ -73,8 +73,7 @@
       "2021-02-18": 8,
       "2021-02-04": 41,
       "2021-02-02": 30,
-      "2021-01-27": 37,
-      "2021-01-26": 9
+      "2021-01-27": 37
     }
   },
   {
