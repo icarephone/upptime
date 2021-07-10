@@ -82,9 +82,9 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "98.96%",
-    "uptimeDay": "93.07%",
+    "uptimeDay": "93.05%",
     "uptimeWeek": "97.33%",
     "uptimeMonth": "97.94%",
     "uptimeYear": "98.96%",
@@ -137,8 +137,7 @@
       "2021-05-12": 103,
       "2021-05-11": 92,
       "2021-05-10": 140,
-      "2021-05-09": 109,
-      "2021-05-08": 9
+      "2021-05-09": 109
     }
   },
   {
