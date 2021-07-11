@@ -6,7 +6,7 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "73.86%",
+    "uptimeDay": "74.68%",
     "uptimeWeek": "93.27%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "98.78%",
@@ -72,14 +72,14 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "81.35%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "82.10%",
     "uptimeWeek": "94.78%",
     "uptimeMonth": "97.37%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.03%",
     "time": 1472,
-    "timeDay": 1247,
+    "timeDay": 1237,
     "timeWeek": 1268,
     "timeMonth": 1352,
     "timeYear": 1472,
@@ -125,7 +125,7 @@
       "2021-05-17": 90,
       "2021-05-16": 35,
       "2021-05-15": 39,
-      "2021-05-12": 52
+      "2021-05-12": 23
     }
   },
   {
@@ -133,12 +133,12 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "61.95%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "61.93%",
     "uptimeWeek": "89.98%",
     "uptimeMonth": "96.33%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.09%",
     "time": 2895,
     "timeDay": 2749,
     "timeWeek": 2688,
@@ -192,7 +192,7 @@
       "2021-05-17": 14,
       "2021-05-15": 36,
       "2021-05-14": 8,
-      "2021-05-13": 41
+      "2021-05-13": 12
     }
   },
   {
@@ -266,12 +266,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "81.72%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "81.70%",
     "uptimeWeek": "95.27%",
     "uptimeMonth": "95.47%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 1473,
     "timeDay": 1206,
     "timeWeek": 1247,
@@ -302,8 +302,7 @@
       "2021-06-15": 60,
       "2021-06-13": 8,
       "2021-06-10": 14,
-      "2021-06-08": 33,
-      "2021-06-07": 31
+      "2021-06-08": 33
     }
   }
 ]
