@@ -52,9 +52,9 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "85.86%",
+    "uptimeDay": "85.84%",
     "uptimeWeek": "94.18%",
     "uptimeMonth": "96.21%",
     "uptimeYear": "99.37%",
@@ -91,7 +91,7 @@
       "2021-06-22": 12,
       "2021-06-21": 13,
       "2021-06-20": 87,
-      "2021-06-19": 43
+      "2021-06-19": 18
     }
   },
   {
@@ -99,15 +99,15 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "82.87%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "94.99%",
-    "uptimeYear": "99.22%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "82.85%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "99.23%",
     "time": 2894,
     "timeDay": 2699,
-    "timeWeek": 2519,
+    "timeWeek": 2516,
     "timeMonth": 2683,
     "timeYear": 2894,
     "dailyMinutesDown": {
@@ -129,7 +129,7 @@
       "2021-07-04": 62,
       "2021-07-03": 79,
       "2021-07-02": 88,
-      "2021-07-01": 28
+      "2021-07-01": 11
     }
   },
   {
@@ -141,7 +141,7 @@
     "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
-    "uptimeMonth": "98.84%",
+    "uptimeMonth": "98.85%",
     "uptimeYear": "98.22%",
     "time": 1004,
     "timeDay": 923,
@@ -210,9 +210,9 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "93.12%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "95.85%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "95.83%",
     "uptimeYear": "99.23%",
     "time": 1464,
     "timeDay": 1214,
@@ -220,7 +220,7 @@
     "timeMonth": 1207,
     "timeYear": 1464,
     "dailyMinutesDown": {
-      "2021-07-20": 98,
+      "2021-07-20": 110,
       "2021-07-19": 25,
       "2021-07-18": 15,
       "2021-07-16": 85,
