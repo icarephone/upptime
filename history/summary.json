@@ -4,18 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "75.19%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "75.17%",
     "uptimeWeek": "90.94%",
     "uptimeMonth": "95.18%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.21%",
     "time": 1431,
     "timeDay": 1204,
     "timeWeek": 1571,
     "timeMonth": 1489,
     "timeYear": 1431,
     "dailyMinutesDown": {
+      "2021-07-21": 0,
       "2021-07-20": 357,
       "2021-07-19": 90,
       "2021-07-18": 63,
@@ -40,8 +41,7 @@
       "2021-06-16": 29,
       "2021-06-15": 38,
       "2021-06-14": 26,
-      "2021-06-13": 13,
-      "2021-06-04": 76
+      "2021-06-13": 13
     }
   },
   {
@@ -96,12 +96,12 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "71.46%",
-    "uptimeWeek": "92.76%",
-    "uptimeMonth": "94.93%",
-    "uptimeYear": "99.21%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "71.44%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "95.01%",
+    "uptimeYear": "99.23%",
     "time": 2889,
     "timeDay": 2585,
     "timeWeek": 2496,
@@ -125,7 +125,7 @@
       "2021-07-06": 40,
       "2021-07-05": 25,
       "2021-07-04": 62,
-      "2021-07-03": 57
+      "2021-07-03": 22
     }
   },
   {
@@ -204,12 +204,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "78.15%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "78.13%",
     "uptimeWeek": "94.66%",
     "uptimeMonth": "95.36%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 1460,
     "timeDay": 1008,
     "timeWeek": 1260,
@@ -240,8 +240,7 @@
       "2021-06-22": 31,
       "2021-06-21": 94,
       "2021-06-20": 94,
-      "2021-06-19": 146,
-      "2021-06-18": 18
+      "2021-06-19": 146
     }
   }
 ]
