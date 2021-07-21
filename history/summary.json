@@ -4,11 +4,11 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "63.78%",
-    "uptimeWeek": "88.89%",
-    "uptimeMonth": "94.69%",
+    "uptimeDay": "66.86%",
+    "uptimeWeek": "88.87%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "99.18%",
     "time": 1430,
     "timeDay": 1265,
@@ -16,7 +16,7 @@
     "timeMonth": 1482,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2021-07-21": 253,
+      "2021-07-21": 254,
       "2021-07-20": 357,
       "2021-07-19": 90,
       "2021-07-18": 63,
@@ -33,8 +33,7 @@
       "2021-07-06": 63,
       "2021-07-05": 11,
       "2021-07-03": 44,
-      "2021-06-30": 75,
-      "2021-06-29": 11
+      "2021-06-30": 75
     }
   },
   {
@@ -42,19 +41,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "76.06%",
-    "uptimeWeek": "92.17%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "79.11%",
+    "uptimeWeek": "92.16%",
+    "uptimeMonth": "95.82%",
     "uptimeYear": "99.35%",
     "time": 1443,
-    "timeDay": 1123,
+    "timeDay": 1110,
     "timeWeek": 1172,
     "timeMonth": 1279,
     "timeYear": 1443,
     "dailyMinutesDown": {
-      "2021-07-21": 216,
+      "2021-07-21": 217,
       "2021-07-20": 236,
       "2021-07-19": 42,
       "2021-07-18": 82,
@@ -77,7 +76,7 @@
       "2021-06-29": 59,
       "2021-06-26": 19,
       "2021-06-25": 23,
-      "2021-06-24": 47
+      "2021-06-24": 36
     }
   },
   {
@@ -85,12 +84,12 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.19%",
-    "uptimeDay": "65.07%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "65.13%",
     "uptimeWeek": "90.65%",
-    "uptimeMonth": "94.78%",
-    "uptimeYear": "99.19%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "99.20%",
     "time": 2881,
     "timeDay": 2302,
     "timeWeek": 2456,
@@ -110,7 +109,7 @@
       "2021-07-10": 575,
       "2021-07-09": 180,
       "2021-07-08": 53,
-      "2021-07-07": 30
+      "2021-07-07": 23
     }
   },
   {
@@ -191,14 +190,14 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "63.91%",
+    "uptimeDay": "63.98%",
     "uptimeWeek": "92.94%",
-    "uptimeMonth": "94.98%",
+    "uptimeMonth": "95.05%",
     "uptimeYear": "99.20%",
     "time": 1455,
     "timeDay": 1086,
     "timeWeek": 1221,
-    "timeMonth": 1186,
+    "timeMonth": 1188,
     "timeYear": 1455,
     "dailyMinutesDown": {
       "2021-07-21": 333,
