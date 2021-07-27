@@ -4,18 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "81.98%",
-    "uptimeMonth": "94.53%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "81.96%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "99.18%",
     "time": 1411,
     "timeDay": 1103,
     "timeWeek": 1269,
-    "timeMonth": 1430,
+    "timeMonth": 1433,
     "timeYear": 1411,
     "dailyMinutesDown": {
+      "2021-07-27": 2,
       "2021-07-26": 28,
       "2021-07-25": 104,
       "2021-07-24": 165,
@@ -28,7 +29,7 @@
       "2021-07-17": 77,
       "2021-07-16": 74,
       "2021-07-15": 93,
-      "2021-07-14": 143
+      "2021-07-14": 131
     }
   },
   {
@@ -36,19 +37,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
-    "uptime": "99.20%",
-    "uptimeDay": "93.94%",
-    "uptimeWeek": "83.42%",
-    "uptimeMonth": "94.69%",
-    "uptimeYear": "99.20%",
+    "status": "down",
+    "uptime": "99.21%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "83.54%",
+    "uptimeMonth": "94.72%",
+    "uptimeYear": "99.21%",
     "time": 1429,
-    "timeDay": 1212,
-    "timeWeek": 1230,
+    "timeDay": 1220,
+    "timeWeek": 1229,
     "timeMonth": 1264,
     "timeYear": 1429,
     "dailyMinutesDown": {
-      "2021-07-27": 46,
+      "2021-07-27": 48,
       "2021-07-26": 92,
       "2021-07-25": 118,
       "2021-07-24": 26,
@@ -63,7 +64,7 @@
       "2021-07-15": 122,
       "2021-07-14": 92,
       "2021-07-13": 11,
-      "2021-07-11": 227
+      "2021-07-11": 211
     }
   },
   {
@@ -71,11 +72,11 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "96.57%",
-    "uptimeWeek": "80.10%",
-    "uptimeMonth": "94.32%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "80.08%",
+    "uptimeMonth": "94.35%",
     "uptimeYear": "99.15%",
     "time": 2855,
     "timeDay": 2643,
@@ -83,7 +84,7 @@
     "timeMonth": 2653,
     "timeYear": 2855,
     "dailyMinutesDown": {
-      "2021-07-27": 11,
+      "2021-07-27": 12,
       "2021-07-26": 38,
       "2021-07-25": 116,
       "2021-07-24": 99,
@@ -96,7 +97,7 @@
       "2021-07-17": 42,
       "2021-07-15": 66,
       "2021-07-14": 62,
-      "2021-07-13": 111
+      "2021-07-13": 100
     }
   },
   {
@@ -104,10 +105,10 @@
     "url": "https://bot.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/bot.icarephone.com",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "98.82%",
     "uptimeYear": "98.25%",
     "time": 1002,
@@ -116,6 +117,7 @@
     "timeMonth": 950,
     "timeYear": 1002,
     "dailyMinutesDown": {
+      "2021-07-27": 1,
       "2021-07-23": 73,
       "2021-07-22": 5,
       "2021-07-18": 13,
@@ -177,18 +179,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "82.31%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "99.08%",
+    "status": "down",
+    "uptime": "99.10%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "82.30%",
+    "uptimeMonth": "93.99%",
+    "uptimeYear": "99.10%",
     "time": 1449,
     "timeDay": 977,
     "timeWeek": 1292,
     "timeMonth": 1252,
     "timeYear": 1449,
     "dailyMinutesDown": {
+      "2021-07-27": 0,
       "2021-07-26": 38,
       "2021-07-25": 117,
       "2021-07-24": 53,
@@ -203,7 +206,7 @@
       "2021-07-14": 57,
       "2021-07-11": 277,
       "2021-07-10": 291,
-      "2021-07-09": 104
+      "2021-07-09": 57
     }
   }
 ]
