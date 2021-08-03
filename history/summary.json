@@ -41,7 +41,7 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "79.73%",
+    "uptimeDay": "80.09%",
     "uptimeWeek": "93.11%",
     "uptimeMonth": "94.46%",
     "uptimeYear": "99.19%",
@@ -74,18 +74,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "99.18%",
+    "status": "down",
+    "uptime": "99.19%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "94.41%",
+    "uptimeYear": "99.19%",
     "time": 2840,
     "timeDay": 1908,
     "timeWeek": 2300,
     "timeMonth": 2627,
     "timeYear": 2840,
     "dailyMinutesDown": {
+      "2021-08-03": 0,
       "2021-08-02": 16,
       "2021-08-01": 22,
       "2021-07-31": 55,
@@ -102,7 +103,7 @@
       "2021-07-19": 81,
       "2021-07-18": 70,
       "2021-07-17": 42,
-      "2021-07-15": 37
+      "2021-07-15": 26
     }
   },
   {
@@ -112,12 +113,12 @@
     "slug": "bot",
     "status": "up",
     "uptime": "97.11%",
-    "uptimeDay": "96.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "64.18%",
     "uptimeMonth": "91.13%",
     "uptimeYear": "97.11%",
     "time": 998,
-    "timeDay": 835,
+    "timeDay": 809,
     "timeWeek": 930,
     "timeMonth": 943,
     "timeYear": 998,
@@ -189,11 +190,11 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.13%",
     "time": 1447,
     "timeDay": 1050,
@@ -201,6 +202,7 @@
     "timeMonth": 1288,
     "timeYear": 1447,
     "dailyMinutesDown": {
+      "2021-08-03": 0,
       "2021-08-02": 31,
       "2021-08-01": 82,
       "2021-07-30": 11,
@@ -218,7 +220,7 @@
       "2021-07-15": 41,
       "2021-07-14": 57,
       "2021-07-11": 277,
-      "2021-07-10": 173
+      "2021-07-10": 158
     }
   }
 ]
