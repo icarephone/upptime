@@ -40,18 +40,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "78.80%",
+    "uptimeDay": "81.30%",
     "uptimeWeek": "89.31%",
-    "uptimeMonth": "94.15%",
+    "uptimeMonth": "94.19%",
     "uptimeYear": "99.16%",
     "time": 1416,
-    "timeDay": 1298,
+    "timeDay": 1353,
     "timeWeek": 1274,
     "timeMonth": 1238,
     "timeYear": 1416,
     "dailyMinutesDown": {
+      "2021-08-05": 0,
       "2021-08-04": 327,
       "2021-08-03": 220,
       "2021-08-02": 292,
@@ -66,7 +67,7 @@
       "2021-07-24": 26,
       "2021-07-23": 161,
       "2021-07-22": 483,
-      "2021-07-21": 446
+      "2021-07-21": 429
     }
   },
   {
@@ -75,18 +76,18 @@
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
     "status": "down",
-    "uptime": "98.93%",
+    "uptime": "98.90%",
     "uptimeDay": "57.33%",
-    "uptimeWeek": "88.12%",
-    "uptimeMonth": "92.54%",
-    "uptimeYear": "98.93%",
+    "uptimeWeek": "87.30%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "98.90%",
     "time": 2830,
     "timeDay": 2525,
     "timeWeek": 2246,
     "timeMonth": 2609,
     "timeYear": 2830,
     "dailyMinutesDown": {
-      "2021-08-05": 0,
+      "2021-08-05": 83,
       "2021-08-04": 636,
       "2021-08-03": 441,
       "2021-08-02": 16,
@@ -188,12 +189,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "22.09%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "25.17%",
     "uptimeWeek": "77.48%",
-    "uptimeMonth": "90.17%",
-    "uptimeYear": "98.58%",
+    "uptimeMonth": "90.20%",
+    "uptimeYear": "98.59%",
     "time": 1439,
     "timeDay": 1259,
     "timeWeek": 1239,
@@ -218,7 +219,7 @@
       "2021-07-18": 15,
       "2021-07-16": 85,
       "2021-07-15": 41,
-      "2021-07-14": 43
+      "2021-07-14": 31
     }
   }
 ]
