@@ -42,11 +42,11 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "78.11%",
+    "uptimeDay": "78.09%",
     "uptimeWeek": "86.45%",
-    "uptimeMonth": "94.61%",
+    "uptimeMonth": "94.64%",
     "uptimeYear": "99.23%",
     "time": 1411,
     "timeDay": 1141,
@@ -54,6 +54,7 @@
     "timeMonth": 1229,
     "timeYear": 1411,
     "dailyMinutesDown": {
+      "2021-08-06": 0,
       "2021-08-05": 313,
       "2021-08-04": 327,
       "2021-08-03": 220,
@@ -68,7 +69,7 @@
       "2021-07-25": 118,
       "2021-07-24": 26,
       "2021-07-23": 161,
-      "2021-07-22": 415
+      "2021-07-22": 403
     }
   },
   {
@@ -76,12 +77,12 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "52.04%",
-    "uptimeWeek": "80.83%",
-    "uptimeMonth": "91.07%",
-    "uptimeYear": "98.72%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "52.96%",
+    "uptimeWeek": "80.82%",
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "98.73%",
     "time": 2829,
     "timeDay": 2718,
     "timeWeek": 2352,
@@ -104,7 +105,7 @@
       "2021-07-23": 251,
       "2021-07-22": 602,
       "2021-07-21": 602,
-      "2021-07-20": 207
+      "2021-07-20": 195
     }
   },
   {
@@ -192,12 +193,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "35.52%",
-    "uptimeWeek": "68.27%",
-    "uptimeMonth": "89.18%",
-    "uptimeYear": "98.45%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "35.49%",
+    "uptimeWeek": "68.26%",
+    "uptimeMonth": "89.24%",
+    "uptimeYear": "98.46%",
     "time": 1439,
     "timeDay": 1403,
     "timeWeek": 1294,
@@ -217,7 +218,7 @@
       "2021-07-24": 53,
       "2021-07-23": 191,
       "2021-07-22": 602,
-      "2021-07-21": 498
+      "2021-07-21": 469
     }
   }
 ]
