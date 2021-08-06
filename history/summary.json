@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.18%",
     "uptimeDay": "90.31%",
-    "uptimeWeek": "96.54%",
+    "uptimeWeek": "96.55%",
     "uptimeMonth": "94.29%",
     "uptimeYear": "99.18%",
     "time": 1412,
     "timeDay": 1554,
-    "timeWeek": 1495,
+    "timeWeek": 1520,
     "timeMonth": 1446,
     "timeYear": 1412,
     "dailyMinutesDown": {
@@ -42,14 +42,14 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "77.71%",
-    "uptimeWeek": "85.99%",
-    "uptimeMonth": "94.57%",
-    "uptimeYear": "99.22%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "78.48%",
+    "uptimeWeek": "85.98%",
+    "uptimeMonth": "94.60%",
+    "uptimeYear": "99.23%",
     "time": 1411,
-    "timeDay": 1158,
+    "timeDay": 1149,
     "timeWeek": 1246,
     "timeMonth": 1232,
     "timeYear": 1411,
@@ -69,7 +69,7 @@
       "2021-07-25": 118,
       "2021-07-24": 26,
       "2021-07-23": 161,
-      "2021-07-22": 387
+      "2021-07-22": 373
     }
   },
   {
@@ -79,7 +79,7 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "55.54%",
+    "uptimeDay": "56.36%",
     "uptimeWeek": "78.84%",
     "uptimeMonth": "90.68%",
     "uptimeYear": "98.67%",
@@ -193,14 +193,14 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "98.39%",
+    "status": "down",
+    "uptime": "98.40%",
     "uptimeDay": "25.98%",
     "uptimeWeek": "65.93%",
-    "uptimeMonth": "88.75%",
-    "uptimeYear": "98.39%",
+    "uptimeMonth": "88.79%",
+    "uptimeYear": "98.40%",
     "time": 1438,
-    "timeDay": 1350,
+    "timeDay": 1301,
     "timeWeek": 1294,
     "timeMonth": 1287,
     "timeYear": 1438,
@@ -218,7 +218,7 @@
       "2021-07-24": 53,
       "2021-07-23": 191,
       "2021-07-22": 602,
-      "2021-07-21": 450
+      "2021-07-21": 434
     }
   }
 ]
