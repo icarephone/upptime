@@ -6,7 +6,7 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "96.76%",
+    "uptimeDay": "96.80%",
     "uptimeWeek": "97.29%",
     "uptimeMonth": "94.83%",
     "uptimeYear": "99.29%",
@@ -46,12 +46,12 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "20.65%",
-    "uptimeWeek": "83.45%",
-    "uptimeMonth": "91.74%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "98.88%",
+    "uptimeDay": "20.67%",
+    "uptimeWeek": "83.74%",
+    "uptimeMonth": "91.80%",
+    "uptimeYear": "98.88%",
     "time": 1401,
     "timeDay": 1214,
     "timeWeek": 1324,
@@ -71,8 +71,7 @@
       "2021-08-04": 327,
       "2021-08-03": 220,
       "2021-08-02": 292,
-      "2021-08-01": 50,
-      "2021-07-31": 26
+      "2021-08-01": 50
     }
   },
   {
@@ -80,12 +79,12 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "98.48%",
-    "uptimeDay": "89.54%",
-    "uptimeWeek": "93.46%",
-    "uptimeMonth": "88.88%",
-    "uptimeYear": "98.48%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "89.52%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "88.93%",
+    "uptimeYear": "98.49%",
     "time": 2809,
     "timeDay": 2616,
     "timeWeek": 2518,
@@ -113,7 +112,7 @@
       "2021-07-25": 116,
       "2021-07-24": 99,
       "2021-07-23": 251,
-      "2021-07-22": 167
+      "2021-07-22": 144
     }
   },
   {
@@ -204,12 +203,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "97.60%",
-    "uptimeDay": "20.61%",
-    "uptimeWeek": "83.25%",
-    "uptimeMonth": "82.45%",
-    "uptimeYear": "97.60%",
+    "status": "down",
+    "uptime": "97.61%",
+    "uptimeDay": "20.64%",
+    "uptimeWeek": "83.54%",
+    "uptimeMonth": "82.53%",
+    "uptimeYear": "97.61%",
     "time": 1442,
     "timeDay": 1305,
     "timeWeek": 1485,
@@ -232,8 +231,7 @@
       "2021-08-02": 31,
       "2021-08-01": 82,
       "2021-07-30": 11,
-      "2021-07-27": 43,
-      "2021-07-26": 38
+      "2021-07-27": 43
     }
   }
 ]
