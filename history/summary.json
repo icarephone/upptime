@@ -4,19 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "97.83%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "97.81%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "99.38%",
+    "uptimeYear": "99.40%",
     "time": 1405,
     "timeDay": 1280,
     "timeWeek": 1353,
     "timeMonth": 1379,
     "timeYear": 1405,
     "dailyMinutesDown": {
-      "2021-08-28": 12,
+      "2021-08-28": 14,
       "2021-08-26": 56,
       "2021-08-25": 79,
       "2021-08-24": 15,
@@ -47,7 +47,7 @@
       "2021-07-25": 104,
       "2021-07-24": 165,
       "2021-07-23": 232,
-      "2021-07-22": 494
+      "2021-07-22": 442
     }
   },
   {
@@ -145,10 +145,10 @@
     "url": "https://bot.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/bot.icarephone.com",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "91.63%",
     "uptimeYear": "97.40%",
     "time": 992,
@@ -157,6 +157,7 @@
     "timeMonth": 920,
     "timeYear": 992,
     "dailyMinutesDown": {
+      "2021-08-28": 1,
       "2021-08-23": 16,
       "2021-08-15": 11,
       "2021-08-12": 20,
@@ -229,12 +230,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "82.20%",
-    "uptimeYear": "97.69%",
+    "status": "down",
+    "uptime": "97.72%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "82.40%",
+    "uptimeYear": "97.72%",
     "time": 1436,
     "timeDay": 1254,
     "timeWeek": 1280,
@@ -259,7 +260,7 @@
       "2021-08-07": 1118,
       "2021-08-06": 1059,
       "2021-08-05": 930,
-      "2021-08-04": 877
+      "2021-08-04": 790
     }
   }
 ]
