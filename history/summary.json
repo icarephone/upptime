@@ -6,12 +6,12 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "83.16%",
+    "uptimeDay": "83.37%",
     "uptimeWeek": "83.22%",
     "uptimeMonth": "95.07%",
     "uptimeYear": "99.40%",
     "time": 1445,
-    "timeDay": 944,
+    "timeDay": 959,
     "timeWeek": 1793,
     "timeMonth": 1577,
     "timeYear": 1445,
@@ -41,11 +41,11 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "97.12%",
+    "uptimeDay": "97.10%",
     "uptimeWeek": "93.27%",
-    "uptimeMonth": "90.81%",
+    "uptimeMonth": "90.80%",
     "uptimeYear": "98.86%",
     "time": 1389,
     "timeDay": 1366,
@@ -83,7 +83,7 @@
       "2021-08-15": 1155,
       "2021-08-14": 38,
       "2021-08-13": 32,
-      "2021-08-10": 77
+      "2021-08-10": 65
     }
   },
   {
