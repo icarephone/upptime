@@ -4,12 +4,12 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "74.97%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "74.96%",
     "uptimeWeek": "83.81%",
-    "uptimeMonth": "95.00%",
-    "uptimeYear": "99.39%",
+    "uptimeMonth": "95.06%",
+    "uptimeYear": "99.40%",
     "time": 1449,
     "timeDay": 941,
     "timeWeek": 1829,
@@ -37,9 +37,7 @@
       "2021-08-23": 11,
       "2021-08-22": 44,
       "2021-08-21": 11,
-      "2021-08-20": 30,
-      "2021-08-18": 17,
-      "2021-08-17": 10
+      "2021-08-20": 30
     }
   },
   {
