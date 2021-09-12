@@ -4,11 +4,11 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "83.37%",
-    "uptimeWeek": "83.22%",
-    "uptimeMonth": "95.07%",
+    "uptimeDay": "83.28%",
+    "uptimeWeek": "83.21%",
+    "uptimeMonth": "95.10%",
     "uptimeYear": "99.40%",
     "time": 1445,
     "timeDay": 959,
@@ -16,7 +16,7 @@
     "timeMonth": 1577,
     "timeYear": 1445,
     "dailyMinutesDown": {
-      "2021-09-12": 221,
+      "2021-09-12": 222,
       "2021-09-11": 242,
       "2021-09-10": 264,
       "2021-09-09": 390,
@@ -32,8 +32,7 @@
       "2021-08-29": 20,
       "2021-08-28": 35,
       "2021-08-26": 56,
-      "2021-08-25": 79,
-      "2021-08-24": 15
+      "2021-08-25": 79
     }
   },
   {
@@ -43,9 +42,9 @@
     "slug": "git",
     "status": "down",
     "uptime": "98.86%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "93.27%",
-    "uptimeMonth": "90.80%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "93.14%",
+    "uptimeMonth": "90.78%",
     "uptimeYear": "98.86%",
     "time": 1389,
     "timeDay": 1366,
@@ -53,7 +52,7 @@
     "timeMonth": 1289,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2021-09-12": 42,
+      "2021-09-12": 55,
       "2021-09-11": 48,
       "2021-09-10": 58,
       "2021-09-09": 181,
@@ -221,12 +220,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "93.16%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "93.13%",
     "uptimeWeek": "91.11%",
     "uptimeMonth": "90.77%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 1421,
     "timeDay": 1159,
     "timeWeek": 1283,
@@ -259,7 +258,7 @@
       "2021-08-14": 49,
       "2021-08-13": 32,
       "2021-08-12": 11,
-      "2021-08-10": 76
+      "2021-08-10": 64
     }
   }
 ]
