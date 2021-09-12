@@ -92,14 +92,14 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "82.84%",
-    "uptimeWeek": "87.58%",
+    "uptimeDay": "83.76%",
+    "uptimeWeek": "87.57%",
     "uptimeMonth": "95.08%",
     "uptimeYear": "99.40%",
     "time": 2778,
-    "timeDay": 2722,
+    "timeDay": 2770,
     "timeWeek": 2603,
     "timeMonth": 2568,
     "timeYear": 2778,
@@ -131,8 +131,7 @@
       "2021-08-18": 58,
       "2021-08-17": 26,
       "2021-08-16": 94,
-      "2021-08-15": 95,
-      "2021-08-11": 16
+      "2021-08-15": 95
     }
   },
   {
