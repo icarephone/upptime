@@ -36,19 +36,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "90.48%",
-    "uptimeWeek": "92.14%",
-    "uptimeMonth": "90.96%",
-    "uptimeYear": "98.90%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "90.43%",
+    "uptimeWeek": "92.13%",
+    "uptimeMonth": "91.05%",
+    "uptimeYear": "98.92%",
     "time": 1387,
     "timeDay": 1152,
     "timeWeek": 1214,
     "timeMonth": 1281,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2021-09-13": 90,
+      "2021-09-13": 91,
       "2021-09-12": 76,
       "2021-09-11": 48,
       "2021-09-10": 58,
@@ -76,7 +76,7 @@
       "2021-08-18": 16,
       "2021-08-17": 273,
       "2021-08-16": 1160,
-      "2021-08-15": 1031
+      "2021-08-15": 993
     }
   },
   {
@@ -84,11 +84,11 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "82.33%",
-    "uptimeWeek": "84.16%",
-    "uptimeMonth": "95.14%",
+    "uptimeDay": "82.30%",
+    "uptimeWeek": "84.15%",
+    "uptimeMonth": "95.17%",
     "uptimeYear": "99.41%",
     "time": 2775,
     "timeDay": 2266,
@@ -115,8 +115,7 @@
       "2021-08-27": 64,
       "2021-08-26": 57,
       "2021-08-25": 55,
-      "2021-08-24": 90,
-      "2021-08-23": 12
+      "2021-08-24": 90
     }
   },
   {
