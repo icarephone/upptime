@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.38%",
     "uptimeDay": "79.98%",
-    "uptimeWeek": "79.76%",
+    "uptimeWeek": "80.06%",
     "uptimeMonth": "94.83%",
     "uptimeYear": "99.38%",
     "time": 1582,
     "timeDay": 3124,
-    "timeWeek": 2911,
+    "timeWeek": 2933,
     "timeMonth": 2104,
     "timeYear": 1582,
     "dailyMinutesDown": {
@@ -82,19 +82,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "89.80%",
+    "uptimeDay": "89.74%",
     "uptimeWeek": "86.36%",
-    "uptimeMonth": "95.14%",
+    "uptimeMonth": "95.18%",
     "uptimeYear": "99.42%",
     "time": 2760,
     "timeDay": 2362,
-    "timeWeek": 2499,
+    "timeWeek": 2512,
     "timeMonth": 2539,
     "timeYear": 2760,
     "dailyMinutesDown": {
-      "2021-09-17": 35,
+      "2021-09-17": 36,
       "2021-09-16": 169,
       "2021-09-15": 164,
       "2021-09-14": 234,
@@ -104,7 +104,7 @@
       "2021-09-10": 90,
       "2021-09-09": 251,
       "2021-09-08": 367,
-      "2021-09-07": 76
+      "2021-09-07": 58
     }
   },
   {
@@ -198,11 +198,11 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "86.47%",
-    "uptimeWeek": "91.90%",
-    "uptimeMonth": "95.36%",
+    "uptimeDay": "86.44%",
+    "uptimeWeek": "91.89%",
+    "uptimeMonth": "95.39%",
     "uptimeYear": "99.45%",
     "time": 1414,
     "timeDay": 1172,
@@ -235,7 +235,7 @@
       "2021-08-23": 42,
       "2021-08-19": 41,
       "2021-08-18": 17,
-      "2021-08-17": 22
+      "2021-08-17": 9
     }
   }
 ]
