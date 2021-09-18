@@ -6,13 +6,13 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "79.46%",
-    "uptimeWeek": "78.98%",
+    "uptimeDay": "80.65%",
+    "uptimeWeek": "79.13%",
     "uptimeMonth": "94.69%",
     "uptimeYear": "99.37%",
     "time": 1574,
     "timeDay": 1167,
-    "timeWeek": 2460,
+    "timeWeek": 2475,
     "timeMonth": 2050,
     "timeYear": 1574,
     "dailyMinutesDown": {
@@ -32,11 +32,11 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "77.85%",
+    "uptimeDay": "77.79%",
     "uptimeWeek": "92.51%",
-    "uptimeMonth": "95.63%",
+    "uptimeMonth": "95.65%",
     "uptimeYear": "99.48%",
     "time": 1389,
     "timeDay": 1183,
@@ -44,7 +44,7 @@
     "timeMonth": 1292,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2021-09-18": 193,
+      "2021-09-18": 194,
       "2021-09-17": 169,
       "2021-09-16": 74,
       "2021-09-15": 57,
@@ -69,7 +69,7 @@
       "2021-08-26": 23,
       "2021-08-25": 67,
       "2021-08-24": 121,
-      "2021-08-23": 12
+      "2021-08-23": 1
     }
   },
   {
@@ -80,7 +80,7 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "76.76%",
-    "uptimeWeek": "84.05%",
+    "uptimeWeek": "84.19%",
     "uptimeMonth": "95.49%",
     "uptimeYear": "99.46%",
     "time": 2751,
@@ -192,12 +192,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "74.03%",
-    "uptimeWeek": "88.37%",
-    "uptimeMonth": "94.90%",
-    "uptimeYear": "99.39%",
+    "status": "down",
+    "uptime": "99.40%",
+    "uptimeDay": "74.00%",
+    "uptimeWeek": "88.36%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "99.40%",
     "time": 1411,
     "timeDay": 1292,
     "timeWeek": 1251,
@@ -223,8 +223,7 @@
       "2021-09-02": 12,
       "2021-09-01": 27,
       "2021-08-30": 48,
-      "2021-08-29": 65,
-      "2021-08-28": 38
+      "2021-08-29": 65
     }
   }
 ]
