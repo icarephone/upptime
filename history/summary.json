@@ -84,12 +84,12 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "85.26%",
+    "uptimeDay": "86.90%",
     "uptimeWeek": "85.01%",
     "uptimeMonth": "95.36%",
     "uptimeYear": "99.45%",
     "time": 2755,
-    "timeDay": 2352,
+    "timeDay": 2327,
     "timeWeek": 2466,
     "timeMonth": 2521,
     "timeYear": 2755,
@@ -198,14 +198,14 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "76.14%",
+    "uptimeDay": "77.74%",
     "uptimeWeek": "89.50%",
-    "uptimeMonth": "95.04%",
+    "uptimeMonth": "95.07%",
     "uptimeYear": "99.41%",
     "time": 1412,
-    "timeDay": 1201,
+    "timeDay": 1216,
     "timeWeek": 1230,
     "timeMonth": 1230,
     "timeYear": 1412,
@@ -231,8 +231,7 @@
       "2021-08-30": 48,
       "2021-08-29": 65,
       "2021-08-28": 86,
-      "2021-08-26": 12,
-      "2021-08-25": 11
+      "2021-08-26": 12
     }
   }
 ]
