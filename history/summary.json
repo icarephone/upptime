@@ -34,12 +34,12 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "81.32%",
+    "uptimeDay": "82.08%",
     "uptimeWeek": "92.24%",
     "uptimeMonth": "95.72%",
     "uptimeYear": "99.49%",
     "time": 1388,
-    "timeDay": 1196,
+    "timeDay": 1220,
     "timeWeek": 1372,
     "timeMonth": 1291,
     "timeYear": 1388,
@@ -191,14 +191,14 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "73.06%",
+    "uptimeDay": "73.41%",
     "uptimeWeek": "87.65%",
-    "uptimeMonth": "94.95%",
+    "uptimeMonth": "94.97%",
     "uptimeYear": "99.40%",
     "time": 1411,
-    "timeDay": 1318,
+    "timeDay": 1322,
     "timeWeek": 1226,
     "timeMonth": 1239,
     "timeYear": 1411,
@@ -220,8 +220,7 @@
       "2021-09-04": 37,
       "2021-09-03": 22,
       "2021-09-02": 12,
-      "2021-09-01": 27,
-      "2021-08-30": 11
+      "2021-09-01": 27
     }
   }
 ]
