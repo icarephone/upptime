@@ -35,7 +35,7 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "85.32%",
-    "uptimeWeek": "90.73%",
+    "uptimeWeek": "90.78%",
     "uptimeMonth": "95.63%",
     "uptimeYear": "99.48%",
     "time": 1401,
@@ -186,12 +186,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "75.23%",
-    "uptimeWeek": "84.92%",
-    "uptimeMonth": "94.53%",
-    "uptimeYear": "99.35%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "75.20%",
+    "uptimeWeek": "84.91%",
+    "uptimeMonth": "94.56%",
+    "uptimeYear": "99.36%",
     "time": 1409,
     "timeDay": 1308,
     "timeWeek": 1241,
@@ -211,7 +211,7 @@
       "2021-09-09": 254,
       "2021-09-08": 250,
       "2021-09-07": 140,
-      "2021-09-06": 25
+      "2021-09-06": 14
     }
   }
 ]
