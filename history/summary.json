@@ -34,9 +34,9 @@
     "slug": "git",
     "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "83.63%",
-    "uptimeWeek": "90.81%",
-    "uptimeMonth": "95.72%",
+    "uptimeDay": "82.76%",
+    "uptimeWeek": "90.69%",
+    "uptimeMonth": "95.69%",
     "uptimeYear": "99.49%",
     "time": 1402,
     "timeDay": 2188,
@@ -44,7 +44,7 @@
     "timeMonth": 1385,
     "timeYear": 1402,
     "dailyMinutesDown": {
-      "2021-09-19": 143,
+      "2021-09-19": 156,
       "2021-09-18": 257,
       "2021-09-17": 169,
       "2021-09-16": 74,
@@ -72,19 +72,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "87.44%",
-    "uptimeWeek": "84.90%",
-    "uptimeMonth": "95.62%",
+    "uptimeDay": "88.05%",
+    "uptimeWeek": "84.89%",
+    "uptimeMonth": "95.65%",
     "uptimeYear": "99.48%",
     "time": 2744,
-    "timeDay": 2130,
+    "timeDay": 2176,
     "timeWeek": 2287,
     "timeMonth": 2497,
     "timeYear": 2744,
     "dailyMinutesDown": {
-      "2021-09-19": 114,
+      "2021-09-19": 115,
       "2021-09-18": 327,
       "2021-09-17": 122,
       "2021-09-16": 169,
@@ -93,7 +93,7 @@
       "2021-09-13": 236,
       "2021-09-12": 309,
       "2021-09-11": 196,
-      "2021-09-10": 48
+      "2021-09-10": 31
     }
   },
   {
@@ -187,12 +187,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "78.32%",
-    "uptimeWeek": "86.41%",
-    "uptimeMonth": "94.70%",
-    "uptimeYear": "99.37%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "78.29%",
+    "uptimeWeek": "86.40%",
+    "uptimeMonth": "94.73%",
+    "uptimeYear": "99.38%",
     "time": 1409,
     "timeDay": 1270,
     "timeWeek": 1231,
@@ -214,7 +214,7 @@
       "2021-09-07": 140,
       "2021-09-06": 47,
       "2021-09-05": 43,
-      "2021-09-04": 26
+      "2021-09-04": 11
     }
   }
 ]
