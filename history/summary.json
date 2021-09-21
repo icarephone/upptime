@@ -4,19 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "74.19%",
-    "uptimeWeek": "80.19%",
-    "uptimeMonth": "94.35%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.35%",
+    "uptimeDay": "74.10%",
+    "uptimeWeek": "80.18%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "99.35%",
     "time": 1554,
     "timeDay": 1131,
     "timeWeek": 2267,
     "timeMonth": 1918,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2021-09-21": 104,
+      "2021-09-21": 105,
       "2021-09-20": 278,
       "2021-09-19": 263,
       "2021-09-18": 300,
@@ -24,7 +24,7 @@
       "2021-09-16": 358,
       "2021-09-15": 284,
       "2021-09-14": 288,
-      "2021-09-13": 336
+      "2021-09-13": 292
     }
   },
   {
@@ -32,11 +32,11 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "83.00%",
-    "uptimeWeek": "88.82%",
-    "uptimeMonth": "95.63%",
+    "uptimeDay": "82.94%",
+    "uptimeWeek": "88.81%",
+    "uptimeMonth": "95.66%",
     "uptimeYear": "99.49%",
     "time": 1401,
     "timeDay": 1435,
@@ -44,7 +44,7 @@
     "timeMonth": 1392,
     "timeYear": 1401,
     "dailyMinutesDown": {
-      "2021-09-21": 113,
+      "2021-09-21": 114,
       "2021-09-20": 215,
       "2021-09-19": 216,
       "2021-09-18": 257,
@@ -58,7 +58,7 @@
       "2021-09-10": 58,
       "2021-09-09": 181,
       "2021-09-08": 220,
-      "2021-09-07": 82
+      "2021-09-07": 68
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "down",
+    "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "80.76%",
-    "uptimeWeek": "84.90%",
-    "uptimeMonth": "95.43%",
+    "uptimeDay": "78.86%",
+    "uptimeWeek": "84.63%",
+    "uptimeMonth": "95.37%",
     "uptimeYear": "99.46%",
     "time": 2738,
-    "timeDay": 2436,
-    "timeWeek": 2316,
-    "timeMonth": 2484,
+    "timeDay": 2396,
+    "timeWeek": 2312,
+    "timeMonth": 2481,
     "timeYear": 2738,
     "dailyMinutesDown": {
-      "2021-09-21": 88,
+      "2021-09-21": 116,
       "2021-09-20": 262,
       "2021-09-19": 259,
       "2021-09-18": 327,
@@ -181,11 +181,11 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "72.60%",
+    "uptimeDay": "74.33%",
     "uptimeWeek": "80.34%",
-    "uptimeMonth": "94.53%",
+    "uptimeMonth": "94.55%",
     "uptimeYear": "99.36%",
     "time": 1413,
     "timeDay": 1735,
@@ -193,7 +193,7 @@
     "timeMonth": 1287,
     "timeYear": 1413,
     "dailyMinutesDown": {
-      "2021-09-21": 152,
+      "2021-09-21": 153,
       "2021-09-20": 439,
       "2021-09-19": 384,
       "2021-09-18": 389,
@@ -205,7 +205,7 @@
       "2021-09-12": 103,
       "2021-09-11": 66,
       "2021-09-10": 59,
-      "2021-09-09": 47
+      "2021-09-09": 37
     }
   }
 ]
