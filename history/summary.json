@@ -6,12 +6,12 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "78.08%",
-    "uptimeWeek": "79.62%",
+    "uptimeDay": "79.01%",
+    "uptimeWeek": "79.77%",
     "uptimeMonth": "94.42%",
     "uptimeYear": "99.35%",
     "time": 1546,
-    "timeDay": 1415,
+    "timeDay": 1416,
     "timeWeek": 1468,
     "timeMonth": 1852,
     "timeYear": 1546,
@@ -66,11 +66,11 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "82.37%",
+    "uptimeDay": "82.31%",
     "uptimeWeek": "82.21%",
-    "uptimeMonth": "95.27%",
+    "uptimeMonth": "95.30%",
     "uptimeYear": "99.45%",
     "time": 2726,
     "timeDay": 2451,
@@ -78,7 +78,7 @@
     "timeMonth": 2465,
     "timeYear": 2726,
     "dailyMinutesDown": {
-      "2021-09-23": 84,
+      "2021-09-23": 85,
       "2021-09-22": 331,
       "2021-09-21": 296,
       "2021-09-20": 262,
@@ -87,7 +87,7 @@
       "2021-09-17": 122,
       "2021-09-16": 169,
       "2021-09-15": 164,
-      "2021-09-14": 58
+      "2021-09-14": 44
     }
   },
   {
@@ -181,27 +181,26 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "80.67%",
-    "uptimeWeek": "77.67%",
-    "uptimeMonth": "94.66%",
+    "uptimeDay": "81.54%",
+    "uptimeWeek": "77.66%",
+    "uptimeMonth": "94.69%",
     "uptimeYear": "99.38%",
     "time": 1424,
-    "timeDay": 1820,
+    "timeDay": 1876,
     "timeWeek": 1499,
     "timeMonth": 1364,
     "timeYear": 1424,
     "dailyMinutesDown": {
-      "2021-09-23": 99,
+      "2021-09-23": 100,
       "2021-09-22": 261,
       "2021-09-21": 317,
       "2021-09-20": 439,
       "2021-09-19": 384,
       "2021-09-18": 389,
       "2021-09-17": 214,
-      "2021-09-16": 227,
-      "2021-09-15": 12
+      "2021-09-16": 227
     }
   }
 ]
