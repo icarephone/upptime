@@ -4,19 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "77.71%",
-    "uptimeWeek": "78.52%",
-    "uptimeMonth": "94.68%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "99.39%",
+    "uptimeDay": "78.29%",
+    "uptimeWeek": "78.51%",
+    "uptimeMonth": "94.70%",
+    "uptimeYear": "99.39%",
     "time": 1564,
     "timeDay": 2753,
     "timeWeek": 1526,
     "timeMonth": 1882,
     "timeYear": 1564,
     "dailyMinutesDown": {
-      "2021-09-26": 83,
+      "2021-09-26": 84,
       "2021-09-25": 291,
       "2021-09-24": 373,
       "2021-09-23": 253,
@@ -24,7 +24,7 @@
       "2021-09-21": 273,
       "2021-09-20": 278,
       "2021-09-19": 263,
-      "2021-09-18": 168
+      "2021-09-18": 158
     }
   },
   {
@@ -34,8 +34,8 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "92.04%",
-    "uptimeWeek": "87.30%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "87.35%",
     "uptimeMonth": "95.57%",
     "uptimeYear": "99.49%",
     "time": 1407,
@@ -68,7 +68,7 @@
     "status": "up",
     "uptime": "99.43%",
     "uptimeDay": "83.10%",
-    "uptimeWeek": "79.05%",
+    "uptimeWeek": "79.10%",
     "uptimeMonth": "95.07%",
     "uptimeYear": "99.43%",
     "time": 2720,
@@ -178,11 +178,11 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "79.21%",
-    "uptimeMonth": "94.87%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "79.20%",
+    "uptimeMonth": "94.91%",
     "uptimeYear": "99.41%",
     "time": 1432,
     "timeDay": 1368,
@@ -190,7 +190,7 @@
     "timeMonth": 1413,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2021-09-26": 53,
+      "2021-09-26": 54,
       "2021-09-25": 185,
       "2021-09-24": 294,
       "2021-09-23": 205,
@@ -198,7 +198,7 @@
       "2021-09-21": 317,
       "2021-09-20": 439,
       "2021-09-19": 384,
-      "2021-09-18": 110
+      "2021-09-18": 94
     }
   }
 ]
