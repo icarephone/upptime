@@ -6,9 +6,9 @@
     "slug": "icarephone",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "83.99%",
-    "uptimeWeek": "78.25%",
-    "uptimeMonth": "94.91%",
+    "uptimeDay": "83.21%",
+    "uptimeWeek": "78.13%",
+    "uptimeMonth": "94.88%",
     "uptimeYear": "99.41%",
     "time": 1553,
     "timeDay": 1044,
@@ -16,7 +16,7 @@
     "timeMonth": 1838,
     "timeYear": 1553,
     "dailyMinutesDown": {
-      "2021-09-27": 117,
+      "2021-09-27": 128,
       "2021-09-26": 294,
       "2021-09-25": 291,
       "2021-09-24": 373,
@@ -63,7 +63,7 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "80.82%",
+    "uptimeDay": "81.55%",
     "uptimeWeek": "79.23%",
     "uptimeMonth": "94.99%",
     "uptimeYear": "99.42%",
@@ -175,11 +175,11 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "87.52%",
-    "uptimeWeek": "81.77%",
-    "uptimeMonth": "95.20%",
+    "uptimeDay": "87.48%",
+    "uptimeWeek": "81.76%",
+    "uptimeMonth": "95.22%",
     "uptimeYear": "99.45%",
     "time": 1435,
     "timeDay": 1536,
@@ -187,7 +187,7 @@
     "timeMonth": 1428,
     "timeYear": 1435,
     "dailyMinutesDown": {
-      "2021-09-27": 108,
+      "2021-09-27": 109,
       "2021-09-26": 263,
       "2021-09-25": 185,
       "2021-09-24": 294,
@@ -195,7 +195,7 @@
       "2021-09-22": 261,
       "2021-09-21": 317,
       "2021-09-20": 439,
-      "2021-09-19": 32
+      "2021-09-19": 23
     }
   }
 ]
