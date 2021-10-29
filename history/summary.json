@@ -4,18 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.22%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.42%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 1521,
     "timeDay": 1189,
-    "timeWeek": 985,
+    "timeWeek": 989,
     "timeMonth": 1046,
     "timeYear": 1521,
     "dailyMinutesDown": {
+      "2021-10-29": 1,
       "2021-10-28": 40,
       "2021-10-27": 19,
       "2021-10-26": 58,
@@ -36,7 +37,7 @@
       "2021-09-25": 291,
       "2021-09-24": 373,
       "2021-09-23": 253,
-      "2021-09-22": 224
+      "2021-09-22": 210
     }
   },
   {
@@ -48,12 +49,12 @@
     "uptime": "99.55%",
     "uptimeDay": "98.09%",
     "uptimeWeek": "99.45%",
-    "uptimeMonth": "98.97%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.55%",
     "time": 1409,
     "timeDay": 1265,
     "timeWeek": 1215,
-    "timeMonth": 1435,
+    "timeMonth": 1427,
     "timeYear": 1409,
     "dailyMinutesDown": {
       "2021-10-29": 27,
@@ -216,18 +217,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "89.94%",
-    "uptimeMonth": "96.44%",
+    "uptimeMonth": "96.47%",
     "uptimeYear": "99.35%",
     "time": 1433,
     "timeDay": 1331,
     "timeWeek": 1225,
-    "timeMonth": 1421,
+    "timeMonth": 1428,
     "timeYear": 1433,
     "dailyMinutesDown": {
+      "2021-10-29": 1,
       "2021-10-28": 19,
       "2021-10-27": 52,
       "2021-10-26": 815,
@@ -256,7 +258,7 @@
       "2021-09-25": 185,
       "2021-09-24": 294,
       "2021-09-23": 205,
-      "2021-09-22": 131
+      "2021-09-22": 110
     }
   }
 ]
