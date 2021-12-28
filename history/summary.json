@@ -4,12 +4,12 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "74.65%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "74.64%",
     "uptimeWeek": "96.17%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 1474,
     "timeDay": 982,
     "timeWeek": 938,
@@ -52,7 +52,7 @@
       "2021-09-27": 146,
       "2021-09-26": 294,
       "2021-09-25": 291,
-      "2021-09-24": 273
+      "2021-09-24": 230
     }
   },
   {
@@ -62,9 +62,9 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "77.41%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "78.19%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "99.06%",
     "uptimeYear": "99.53%",
     "time": 1399,
     "timeDay": 1180,
@@ -72,7 +72,7 @@
     "timeMonth": 1240,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2021-12-28": 42,
+      "2021-12-28": 31,
       "2021-12-27": 283,
       "2021-12-09": 27,
       "2021-12-07": 70,
@@ -105,7 +105,7 @@
       "2021-09-24": 224,
       "2021-09-23": 188,
       "2021-09-22": 85,
-      "2021-09-21": 139
+      "2021-09-21": 156
     }
   },
   {
@@ -115,9 +115,9 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "61.55%",
-    "uptimeWeek": "94.51%",
-    "uptimeMonth": "98.63%",
+    "uptimeDay": "62.30%",
+    "uptimeWeek": "94.61%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "99.54%",
     "time": 2676,
     "timeDay": 2529,
@@ -125,7 +125,7 @@
     "timeMonth": 2326,
     "timeYear": 2635,
     "dailyMinutesDown": {
-      "2021-12-28": 106,
+      "2021-12-28": 95,
       "2021-12-27": 447,
       "2021-12-11": 22,
       "2021-12-09": 26,
@@ -150,7 +150,7 @@
       "2021-09-26": 190,
       "2021-09-25": 296,
       "2021-09-24": 380,
-      "2021-09-23": 242
+      "2021-09-23": 256
     }
   },
   {
