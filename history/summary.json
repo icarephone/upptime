@@ -4,19 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/www.icarephone.com",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "76.11%",
-    "uptimeWeek": "96.38%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.56%",
+    "status": "down",
+    "uptime": "99.57%",
+    "uptimeDay": "76.03%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "99.57%",
     "time": 1475,
     "timeDay": 980,
     "timeWeek": 935,
     "timeMonth": 1014,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2021-12-28": 23,
+      "2021-12-28": 24,
       "2021-12-27": 320,
       "2021-12-25": 21,
       "2021-12-07": 70,
@@ -52,7 +52,7 @@
       "2021-09-27": 146,
       "2021-09-26": 294,
       "2021-09-25": 291,
-      "2021-09-24": 298
+      "2021-09-24": 273
     }
   },
   {
@@ -113,19 +113,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "63.72%",
-    "uptimeWeek": "94.82%",
+    "uptimeDay": "63.66%",
+    "uptimeWeek": "94.81%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "99.54%",
     "time": 2678,
     "timeDay": 2641,
     "timeWeek": 2404,
     "timeMonth": 2350,
-    "timeYear": 2637,
+    "timeYear": 2636,
     "dailyMinutesDown": {
-      "2021-12-28": 75,
+      "2021-12-28": 76,
       "2021-12-27": 447,
       "2021-12-11": 22,
       "2021-12-09": 26,
@@ -150,7 +150,7 @@
       "2021-09-26": 190,
       "2021-09-25": 296,
       "2021-09-24": 380,
-      "2021-09-23": 278
+      "2021-09-23": 256
     }
   },
   {
@@ -159,7 +159,7 @@
     "icon": "https://favicons.githubusercontent.com/bot.icarephone.com",
     "slug": "bot",
     "status": "up",
-    "uptime": "97.99%",
+    "uptime": "98.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.49%",
@@ -248,11 +248,11 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "72.60%",
-    "uptimeWeek": "96.09%",
-    "uptimeMonth": "98.88%",
+    "uptimeDay": "72.56%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.40%",
     "time": 1421,
     "timeDay": 1537,
@@ -260,7 +260,7 @@
     "timeMonth": 1298,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2021-12-28": 123,
+      "2021-12-28": 124,
       "2021-12-27": 271,
       "2021-12-14": 29,
       "2021-12-07": 69,
@@ -295,7 +295,7 @@
       "2021-09-26": 263,
       "2021-09-25": 185,
       "2021-09-24": 294,
-      "2021-09-23": 48
+      "2021-09-23": 31
     }
   }
 ]
