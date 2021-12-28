@@ -6,9 +6,9 @@
     "slug": "icarephone",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "79.30%",
-    "uptimeWeek": "93.65%",
-    "uptimeMonth": "98.33%",
+    "uptimeDay": "78.16%",
+    "uptimeWeek": "93.48%",
+    "uptimeMonth": "98.29%",
     "uptimeYear": "99.55%",
     "time": 1469,
     "timeDay": 976,
@@ -16,7 +16,7 @@
     "timeMonth": 1004,
     "timeYear": 1467,
     "dailyMinutesDown": {
-      "2021-12-28": 297,
+      "2021-12-28": 314,
       "2021-12-27": 320,
       "2021-12-25": 21,
       "2021-12-07": 70,
@@ -60,10 +60,10 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "75.38%",
-    "uptimeWeek": "93.68%",
+    "uptimeDay": "75.32%",
+    "uptimeWeek": "93.67%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.50%",
     "time": 1403,
@@ -72,7 +72,7 @@
     "timeMonth": 1375,
     "timeYear": 1399,
     "dailyMinutesDown": {
-      "2021-12-28": 354,
+      "2021-12-28": 355,
       "2021-12-27": 283,
       "2021-12-09": 27,
       "2021-12-07": 70,
@@ -104,7 +104,7 @@
       "2021-09-25": 138,
       "2021-09-24": 224,
       "2021-09-23": 188,
-      "2021-09-22": 85
+      "2021-09-22": 75
     }
   },
   {
@@ -247,10 +247,10 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "65.25%",
-    "uptimeWeek": "92.60%",
+    "uptimeDay": "66.34%",
+    "uptimeWeek": "92.59%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.37%",
     "time": 1418,
@@ -259,7 +259,7 @@
     "timeMonth": 1268,
     "timeYear": 1393,
     "dailyMinutesDown": {
-      "2021-12-28": 474,
+      "2021-12-28": 475,
       "2021-12-27": 271,
       "2021-12-14": 29,
       "2021-12-07": 69,
@@ -293,7 +293,7 @@
       "2021-09-27": 136,
       "2021-09-26": 263,
       "2021-09-25": 185,
-      "2021-09-24": 148
+      "2021-09-24": 125
     }
   }
 ]
