@@ -11,7 +11,7 @@
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.57%",
     "time": 1474,
-    "timeDay": 962,
+    "timeDay": 966,
     "timeWeek": 929,
     "timeMonth": 1009,
     "timeYear": 1471,
@@ -62,17 +62,17 @@
     "slug": "git",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "80.96%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "80.95%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.53%",
     "time": 1399,
-    "timeDay": 1180,
+    "timeDay": 1165,
     "timeWeek": 1134,
     "timeMonth": 1240,
     "timeYear": 1394,
     "dailyMinutesDown": {
-      "2021-12-28": 31,
+      "2021-12-28": 44,
       "2021-12-27": 283,
       "2021-12-09": 27,
       "2021-12-07": 70,
@@ -113,10 +113,10 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "62.90%",
-    "uptimeWeek": "94.31%",
+    "uptimeDay": "63.72%",
+    "uptimeWeek": "94.30%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "99.54%",
     "time": 2676,
@@ -150,7 +150,7 @@
       "2021-09-26": 190,
       "2021-09-25": 296,
       "2021-09-24": 380,
-      "2021-09-23": 242
+      "2021-09-23": 228
     }
   },
   {
@@ -250,9 +250,9 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "70.22%",
-    "uptimeWeek": "95.75%",
-    "uptimeMonth": "98.80%",
+    "uptimeDay": "71.21%",
+    "uptimeWeek": "95.89%",
+    "uptimeMonth": "98.83%",
     "uptimeYear": "99.40%",
     "time": 1421,
     "timeDay": 1510,
@@ -260,7 +260,7 @@
     "timeMonth": 1300,
     "timeYear": 1396,
     "dailyMinutesDown": {
-      "2021-12-28": 157,
+      "2021-12-28": 143,
       "2021-12-27": 271,
       "2021-12-14": 29,
       "2021-12-07": 69,
@@ -295,7 +295,7 @@
       "2021-09-26": 263,
       "2021-09-25": 185,
       "2021-09-24": 294,
-      "2021-09-23": 10
+      "2021-09-23": 31
     }
   }
 ]
