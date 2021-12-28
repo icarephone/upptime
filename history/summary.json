@@ -60,9 +60,9 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "78.19%",
+    "uptimeDay": "78.13%",
     "uptimeWeek": "96.88%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.53%",
@@ -72,7 +72,7 @@
     "timeMonth": 1244,
     "timeYear": 1395,
     "dailyMinutesDown": {
-      "2021-12-28": 31,
+      "2021-12-28": 32,
       "2021-12-27": 283,
       "2021-12-09": 27,
       "2021-12-07": 70,
@@ -105,7 +105,7 @@
       "2021-09-24": 224,
       "2021-09-23": 188,
       "2021-09-22": 85,
-      "2021-09-21": 156
+      "2021-09-21": 139
     }
   },
   {
@@ -113,9 +113,9 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "62.30%",
+    "uptimeDay": "62.27%",
     "uptimeWeek": "94.61%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "99.54%",
@@ -150,7 +150,7 @@
       "2021-09-26": 190,
       "2021-09-25": 296,
       "2021-09-24": 380,
-      "2021-09-23": 256
+      "2021-09-23": 242
     }
   },
   {
