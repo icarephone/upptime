@@ -6,17 +6,16 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "92.07%",
-    "uptimeMonth": "97.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.19%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "99.54%",
-    "time": 1466,
-    "timeDay": 865,
+    "time": 1465,
+    "timeDay": 878,
     "timeWeek": 951,
-    "timeMonth": 998,
+    "timeMonth": 996,
     "timeYear": 1463,
     "dailyMinutesDown": {
-      "2021-12-30": 13,
       "2021-12-29": 120,
       "2021-12-28": 324,
       "2021-12-27": 320,
@@ -53,7 +52,8 @@
       "2021-09-30": 15,
       "2021-09-27": 146,
       "2021-09-26": 294,
-      "2021-09-25": 291
+      "2021-09-25": 291,
+      "2021-09-24": 22
     }
   },
   {
@@ -68,9 +68,9 @@
     "uptimeMonth": "97.73%",
     "uptimeYear": "99.48%",
     "time": 1402,
-    "timeDay": 930,
-    "timeWeek": 1384,
-    "timeMonth": 1355,
+    "timeDay": 1036,
+    "timeWeek": 1389,
+    "timeMonth": 1350,
     "timeYear": 1398,
     "dailyMinutesDown": {
       "2021-12-29": 241,
@@ -119,11 +119,11 @@
     "uptimeWeek": "89.92%",
     "uptimeMonth": "97.57%",
     "uptimeYear": "99.49%",
-    "time": 2677,
-    "timeDay": 1718,
+    "time": 2676,
+    "timeDay": 1749,
     "timeWeek": 2621,
-    "timeMonth": 2486,
-    "timeYear": 2638,
+    "timeMonth": 2474,
+    "timeYear": 2636,
     "dailyMinutesDown": {
       "2021-12-29": 182,
       "2021-12-28": 387,
@@ -166,9 +166,9 @@
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.02%",
     "time": 973,
-    "timeDay": 727,
-    "timeWeek": 761,
-    "timeMonth": 882,
+    "timeDay": 772,
+    "timeWeek": 773,
+    "timeMonth": 878,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2021-12-10": 99,
@@ -239,8 +239,7 @@
       "2021-04-02": 24,
       "2021-04-01": 27,
       "2021-01-03": 94,
-      "2021-01-02": 567,
-      "2020-12-31": 24
+      "2021-01-02": 567
     }
   },
   {
@@ -254,10 +253,10 @@
     "uptimeWeek": "90.16%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "99.35%",
-    "time": 1417,
-    "timeDay": 961,
-    "timeWeek": 1260,
-    "timeMonth": 1258,
+    "time": 1416,
+    "timeDay": 886,
+    "timeWeek": 1261,
+    "timeMonth": 1253,
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2021-12-29": 247,
