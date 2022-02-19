@@ -74,9 +74,9 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.47%",
     "time": 1436,
     "timeDay": 1412,
@@ -84,7 +84,6 @@
     "timeMonth": 2041,
     "timeYear": 1409,
     "dailyMinutesDown": {
-      "2022-02-19": 11,
       "2022-02-17": 31,
       "2022-02-15": 22,
       "2022-02-01": 59,
@@ -124,7 +123,7 @@
       "2021-09-27": 108,
       "2021-09-26": 183,
       "2021-09-25": 138,
-      "2021-09-24": 63
+      "2021-09-24": 76
     }
   },
   {
@@ -132,18 +131,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "93.16%",
     "uptimeYear": "99.01%",
-    "time": 2642,
+    "time": 2643,
     "timeDay": 2394,
     "timeWeek": 2388,
     "timeMonth": 2510,
     "timeYear": 2587,
     "dailyMinutesDown": {
+      "2022-02-19": 1,
       "2022-02-08": 22,
       "2022-02-06": 19,
       "2022-02-02": 889,
@@ -182,7 +182,7 @@
       "2021-09-28": 22,
       "2021-09-27": 123,
       "2021-09-26": 190,
-      "2021-09-25": 243
+      "2021-09-25": 233
     }
   },
   {
@@ -190,10 +190,10 @@
     "url": "https://bot.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/bot.icarephone.com",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "98.16%",
     "time": 964,
@@ -202,6 +202,7 @@
     "timeMonth": 903,
     "timeYear": 936,
     "dailyMinutesDown": {
+      "2022-02-19": 1,
       "2022-02-08": 35,
       "2022-01-27": 24,
       "2022-01-11": 68,
