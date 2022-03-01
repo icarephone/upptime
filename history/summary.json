@@ -74,19 +74,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "down",
+    "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.48%",
-    "time": 1431,
-    "timeDay": 1322,
-    "timeWeek": 1195,
-    "timeMonth": 1571,
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.47%",
+    "time": 1432,
+    "timeDay": 1692,
+    "timeWeek": 1282,
+    "timeMonth": 1583,
     "timeYear": 1383,
     "dailyMinutesDown": {
-      "2022-03-01": 0,
+      "2022-03-01": 15,
       "2022-02-17": 31,
       "2022-02-15": 22,
       "2022-02-01": 59,
@@ -134,11 +134,11 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.29%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "96.32%",
     "uptimeYear": "99.01%",
     "time": 2607,
     "timeDay": 2590,
@@ -146,6 +146,7 @@
     "timeMonth": 2388,
     "timeYear": 2540,
     "dailyMinutesDown": {
+      "2022-03-01": 1,
       "2022-02-22": 18,
       "2022-02-21": 18,
       "2022-02-19": 19,
@@ -187,7 +188,7 @@
       "2021-09-28": 22,
       "2021-09-27": 123,
       "2021-09-26": 190,
-      "2021-09-25": 211
+      "2021-09-25": 189
     }
   },
   {
@@ -285,9 +286,9 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.36%",
@@ -297,6 +298,7 @@
     "timeMonth": 1422,
     "timeYear": 1362,
     "dailyMinutesDown": {
+      "2022-03-01": 1,
       "2022-02-25": 27,
       "2022-02-17": 30,
       "2022-02-01": 18,
@@ -339,7 +341,7 @@
       "2021-09-29": 14,
       "2021-09-28": 22,
       "2021-09-27": 136,
-      "2021-09-26": 116
+      "2021-09-26": 103
     }
   }
 ]
