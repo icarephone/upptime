@@ -6,9 +6,9 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.54%",
     "time": 1439,
     "timeDay": 1424,
@@ -16,7 +16,6 @@
     "timeMonth": 1311,
     "timeYear": 1431,
     "dailyMinutesDown": {
-      "2022-03-16": 15,
       "2022-03-15": 22,
       "2022-03-12": 53,
       "2022-03-10": 16,
@@ -73,7 +72,7 @@
       "2021-10-04": 28,
       "2021-10-01": 24,
       "2021-09-30": 15,
-      "2021-09-27": 57
+      "2021-09-27": 67
     }
   },
   {
@@ -142,11 +141,11 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.94%",
     "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.64%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.00%",
     "time": 2588,
     "timeDay": 2680,
@@ -154,6 +153,7 @@
     "timeMonth": 2455,
     "timeYear": 2517,
     "dailyMinutesDown": {
+      "2022-03-16": 1,
       "2022-03-14": 25,
       "2022-03-12": 79,
       "2022-02-22": 18,
@@ -197,7 +197,7 @@
       "2021-09-28": 22,
       "2021-09-27": 123,
       "2021-09-26": 190,
-      "2021-09-25": 140
+      "2021-09-25": 129
     }
   },
   {
@@ -295,18 +295,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 1383,
     "timeDay": 1363,
     "timeWeek": 1009,
     "timeMonth": 1339,
     "timeYear": 1347,
     "dailyMinutesDown": {
+      "2022-03-16": 1,
       "2022-03-10": 18,
       "2022-03-08": 23,
       "2022-03-05": 26,
@@ -352,7 +353,7 @@
       "2021-09-29": 14,
       "2021-09-28": 22,
       "2021-09-27": 136,
-      "2021-09-26": 71
+      "2021-09-26": 50
     }
   }
 ]
