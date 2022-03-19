@@ -80,10 +80,10 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.48%",
     "time": 1423,
@@ -92,6 +92,7 @@
     "timeMonth": 1379,
     "timeYear": 1378,
     "dailyMinutesDown": {
+      "2022-03-19": 1,
       "2022-03-14": 17,
       "2022-03-01": 34,
       "2022-02-17": 31,
@@ -132,8 +133,7 @@
       "2021-09-29": 22,
       "2021-09-27": 108,
       "2021-09-26": 183,
-      "2021-09-25": 138,
-      "2021-09-24": 17
+      "2021-09-25": 138
     }
   },
   {
@@ -141,10 +141,10 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.81%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.80%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.00%",
     "time": 2587,
@@ -153,6 +153,7 @@
     "timeMonth": 2449,
     "timeYear": 2518,
     "dailyMinutesDown": {
+      "2022-03-19": 1,
       "2022-03-16": 16,
       "2022-03-14": 25,
       "2022-03-12": 79,
@@ -197,7 +198,7 @@
       "2021-09-28": 22,
       "2021-09-27": 123,
       "2021-09-26": 190,
-      "2021-09-25": 129
+      "2021-09-25": 105
     }
   },
   {
@@ -205,10 +206,10 @@
     "url": "https://bot.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/bot.icarephone.com",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "98.34%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.15%",
     "time": 960,
@@ -217,6 +218,7 @@
     "timeMonth": 884,
     "timeYear": 929,
     "dailyMinutesDown": {
+      "2022-03-19": 1,
       "2022-02-19": 18,
       "2022-02-08": 35,
       "2022-01-27": 24,
