@@ -303,18 +303,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 1376,
     "timeDay": 1063,
     "timeWeek": 1443,
     "timeMonth": 1268,
     "timeYear": 1350,
     "dailyMinutesDown": {
+      "2022-03-31": 1,
       "2022-03-28": 20,
       "2022-03-26": 25,
       "2022-03-21": 26,
@@ -363,7 +364,7 @@
       "2021-09-30": 53,
       "2021-09-29": 14,
       "2021-09-28": 22,
-      "2021-09-27": 91
+      "2021-09-27": 81
     }
   }
 ]
