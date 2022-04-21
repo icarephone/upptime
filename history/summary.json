@@ -12,7 +12,7 @@
     "uptimeYear": "99.52%",
     "time": 1428,
     "timeDay": 934,
-    "timeWeek": 1008,
+    "timeWeek": 864,
     "timeMonth": 1327,
     "timeYear": 1431,
     "dailyMinutesDown": {
@@ -90,7 +90,7 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.47%",
     "time": 1375,
-    "timeDay": 1296,
+    "timeDay": 1424,
     "timeWeek": 1201,
     "timeMonth": 1257,
     "timeYear": 1390,
@@ -147,18 +147,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "status": "down",
+    "uptime": "99.23%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.00%",
-    "time": 2510,
+    "time": 2511,
     "timeDay": 2093,
     "timeWeek": 2283,
     "timeMonth": 2371,
     "timeYear": 2491,
     "dailyMinutesDown": {
+      "2022-04-21": 1,
       "2022-04-19": 18,
       "2022-04-12": 21,
       "2022-04-01": 30,
@@ -208,7 +209,7 @@
       "2021-10-01": 11,
       "2021-09-28": 22,
       "2021-09-27": 123,
-      "2021-09-26": 190
+      "2021-09-26": 176
     }
   },
   {
@@ -307,11 +308,11 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.33%",
     "time": 1355,
     "timeDay": 1156,
@@ -319,6 +320,7 @@
     "timeMonth": 1518,
     "timeYear": 1363,
     "dailyMinutesDown": {
+      "2022-04-21": 1,
       "2022-04-19": 91,
       "2022-04-14": 32,
       "2022-04-12": 29,
@@ -372,7 +374,7 @@
       "2021-10-03": 20,
       "2021-09-30": 53,
       "2021-09-29": 14,
-      "2021-09-28": 22
+      "2021-09-28": 11
     }
   }
 ]
