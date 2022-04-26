@@ -85,9 +85,9 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.47%",
     "time": 1376,
     "timeDay": 2226,
@@ -95,7 +95,6 @@
     "timeMonth": 1243,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2022-04-26": 14,
       "2022-04-21": 21,
       "2022-04-13": 34,
       "2022-03-31": 32,
@@ -140,7 +139,7 @@
       "2021-09-29": 22,
       "2021-09-27": 108,
       "2021-09-26": 183,
-      "2021-09-25": 40
+      "2021-09-25": 62
     }
   },
   {
@@ -148,10 +147,10 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/proxy.icarephone.com",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.47%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.99%",
     "time": 2509,
@@ -160,6 +159,7 @@
     "timeMonth": 2353,
     "timeYear": 2484,
     "dailyMinutesDown": {
+      "2022-04-26": 1,
       "2022-04-24": 29,
       "2022-04-21": 24,
       "2022-04-19": 18,
@@ -211,7 +211,7 @@
       "2021-10-01": 11,
       "2021-09-28": 22,
       "2021-09-27": 123,
-      "2021-09-26": 163
+      "2021-09-26": 152
     }
   },
   {
@@ -308,18 +308,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.43%",
+    "uptimeMonth": "99.42%",
     "uptimeYear": "99.33%",
-    "time": 1355,
+    "time": 1356,
     "timeDay": 1189,
     "timeWeek": 1203,
     "timeMonth": 1476,
     "timeYear": 1362,
     "dailyMinutesDown": {
+      "2022-04-26": 1,
       "2022-04-21": 24,
       "2022-04-19": 91,
       "2022-04-14": 32,
@@ -373,8 +374,7 @@
       "2021-10-04": 35,
       "2021-10-03": 20,
       "2021-09-30": 53,
-      "2021-09-29": 14,
-      "2021-09-28": 11
+      "2021-09-29": 14
     }
   }
 ]
