@@ -83,9 +83,9 @@
     "url": "https://git.icarephone.com",
     "icon": "https://favicons.githubusercontent.com/git.icarephone.com",
     "slug": "git",
-    "status": "up",
-    "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.60%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.38%",
     "uptimeYear": "99.46%",
@@ -95,6 +95,7 @@
     "timeMonth": 1264,
     "timeYear": 1387,
     "dailyMinutesDown": {
+      "2022-05-08": 0,
       "2022-05-06": 64,
       "2022-05-04": 46,
       "2022-04-30": 35,
@@ -143,7 +144,7 @@
       "2021-09-30": 14,
       "2021-09-29": 22,
       "2021-09-27": 108,
-      "2021-09-26": 108
+      "2021-09-26": 94
     }
   },
   {
@@ -231,12 +232,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.14%",
     "time": 946,
     "timeDay": 892,
     "timeWeek": 882,
     "timeMonth": 874,
-    "timeYear": 916,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2022-04-22": 156,
       "2022-04-21": 317,
