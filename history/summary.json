@@ -6,12 +6,12 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.97%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "99.48%",
     "time": 1416,
-    "timeDay": 989,
+    "timeDay": 972,
     "timeWeek": 1319,
     "timeMonth": 1270,
     "timeYear": 1428,
@@ -159,18 +159,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.74%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "98.98%",
+    "uptimeYear": "98.99%",
     "time": 2488,
     "timeDay": 2413,
     "timeWeek": 2900,
     "timeMonth": 2516,
     "timeYear": 2481,
     "dailyMinutesDown": {
+      "2022-05-20": 1,
       "2022-05-18": 63,
       "2022-05-17": 19,
       "2022-05-16": 18,
@@ -230,7 +231,7 @@
       "2021-10-03": 13,
       "2021-10-01": 11,
       "2021-09-28": 22,
-      "2021-09-27": 56
+      "2021-09-27": 38
     }
   },
   {
@@ -318,17 +319,16 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "97.10%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "99.30%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "99.29%",
     "time": 1379,
     "timeDay": 3116,
     "timeWeek": 1877,
     "timeMonth": 1560,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2022-05-20": 11,
       "2022-05-19": 31,
       "2022-05-18": 135,
       "2022-05-17": 55,
@@ -383,7 +383,8 @@
       "2021-10-18": 76,
       "2021-10-17": 56,
       "2021-10-16": 11,
-      "2021-10-15": 10
+      "2021-10-15": 10,
+      "2021-10-14": 24
     }
   }
 ]
