@@ -87,9 +87,9 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.44%",
     "time": 1397,
     "timeDay": 2106,
@@ -97,7 +97,7 @@
     "timeMonth": 1572,
     "timeYear": 1407,
     "dailyMinutesDown": {
-      "2022-05-20": 29,
+      "2022-05-20": 18,
       "2022-05-18": 68,
       "2022-05-17": 23,
       "2022-05-16": 52,
@@ -152,7 +152,8 @@
       "2021-10-03": 28,
       "2021-10-02": 35,
       "2021-09-30": 14,
-      "2021-09-29": 22
+      "2021-09-29": 22,
+      "2021-09-27": 13
     }
   },
   {
@@ -160,19 +161,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "97.99%",
+    "uptimeDay": "97.94%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "98.98%",
-    "time": 2489,
+    "uptimeYear": "98.99%",
+    "time": 2488,
     "timeDay": 2427,
     "timeWeek": 2873,
     "timeMonth": 2516,
     "timeYear": 2481,
     "dailyMinutesDown": {
-      "2022-05-20": 29,
+      "2022-05-20": 30,
       "2022-05-18": 63,
       "2022-05-17": 19,
       "2022-05-16": 18,
@@ -231,8 +232,7 @@
       "2021-10-06": 23,
       "2021-10-03": 13,
       "2021-10-01": 11,
-      "2021-09-28": 22,
-      "2021-09-27": 38
+      "2021-09-28": 22
     }
   },
   {
@@ -320,7 +320,7 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "95.91%",
+    "uptimeDay": "96.04%",
     "uptimeWeek": "96.52%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "99.29%",
