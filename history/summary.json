@@ -86,12 +86,12 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "93.87%",
+    "uptimeDay": "97.55%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "99.43%",
     "time": 1399,
-    "timeDay": 2271,
+    "timeDay": 2352,
     "timeWeek": 1807,
     "timeMonth": 1640,
     "timeYear": 1412,
@@ -315,12 +315,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.47%",
-    "uptimeDay": "92.78%",
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "92.74%",
     "uptimeWeek": "95.08%",
     "uptimeMonth": "98.32%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 1375,
     "timeDay": 1804,
     "timeWeek": 1912,
@@ -381,7 +381,7 @@
       "2021-10-24": 26,
       "2021-10-22": 31,
       "2021-10-21": 40,
-      "2021-10-18": 65
+      "2021-10-18": 27
     }
   }
 ]
