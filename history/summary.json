@@ -4,10 +4,10 @@
     "url": "https://www.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.icarephone.com.ico",
     "slug": "icarephone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "86.37%",
-    "uptimeWeek": "95.26%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "95.25%",
     "uptimeMonth": "97.41%",
     "uptimeYear": "99.40%",
     "time": 1416,
@@ -16,7 +16,7 @@
     "timeMonth": 1317,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2022-06-07": 117,
+      "2022-06-07": 118,
       "2022-06-06": 158,
       "2022-06-05": 33,
       "2022-06-04": 44,
@@ -77,8 +77,7 @@
       "2021-12-07": 70,
       "2021-12-04": 21,
       "2021-11-28": 21,
-      "2021-11-23": 22,
-      "2021-11-21": 20
+      "2021-11-23": 22
     }
   },
   {
@@ -86,18 +85,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "95.07%",
-    "uptimeWeek": "96.68%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "97.29%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.37%",
     "time": 1396,
     "timeDay": 1409,
-    "timeWeek": 1163,
+    "timeWeek": 1171,
     "timeMonth": 1522,
     "timeYear": 1406,
     "dailyMinutesDown": {
+      "2022-06-07": 0,
       "2022-06-06": 71,
       "2022-06-05": 48,
       "2022-06-04": 44,
@@ -149,8 +149,7 @@
       "2021-11-06": 26,
       "2021-11-04": 366,
       "2021-10-31": 19,
-      "2021-10-30": 17,
-      "2021-10-29": 16
+      "2021-10-30": 17
     }
   },
   {
@@ -160,7 +159,7 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "93.35%",
+    "uptimeDay": "95.94%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "98.94%",
@@ -319,7 +318,7 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "96.50%",
+    "uptimeDay": "99.06%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "97.46%",
     "uptimeYear": "99.41%",
