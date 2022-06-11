@@ -6,17 +6,16 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "95.43%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.54%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "99.39%",
     "time": 1415,
     "timeDay": 878,
     "timeWeek": 1272,
     "timeMonth": 1260,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2022-06-10": 11,
       "2022-06-08": 21,
       "2022-06-07": 193,
       "2022-06-06": 158,
@@ -76,7 +75,8 @@
       "2021-12-28": 324,
       "2021-12-27": 320,
       "2021-12-25": 21,
-      "2021-12-07": 70
+      "2021-12-07": 70,
+      "2021-12-04": 21
     }
   },
   {
