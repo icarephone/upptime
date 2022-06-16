@@ -87,14 +87,14 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "97.71%",
+    "uptimeDay": "98.29%",
     "uptimeWeek": "95.67%",
-    "uptimeMonth": "96.68%",
+    "uptimeMonth": "96.80%",
     "uptimeYear": "99.42%",
     "time": 1398,
     "timeDay": 1204,
-    "timeWeek": 1432,
-    "timeMonth": 1443,
+    "timeWeek": 1438,
+    "timeMonth": 1413,
     "timeYear": 1407,
     "dailyMinutesDown": {
       "2022-06-15": 33,
@@ -154,9 +154,9 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "98.50%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "98.93%",
@@ -166,6 +166,7 @@
     "timeMonth": 2641,
     "timeYear": 2496,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2022-06-12": 41,
       "2022-06-10": 110,
       "2022-06-08": 40,
@@ -227,8 +228,7 @@
       "2021-11-04": 73,
       "2021-10-28": 22,
       "2021-10-26": 30,
-      "2021-10-25": 20,
-      "2021-10-24": 23
+      "2021-10-25": 20
     }
   },
   {
@@ -237,7 +237,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bot.icarephone.com.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
