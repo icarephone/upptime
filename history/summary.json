@@ -99,18 +99,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.43%",
-    "time": 1427,
+    "time": 1428,
     "timeDay": 923,
     "timeWeek": 1092,
-    "timeMonth": 1260,
+    "timeMonth": 1252,
     "timeYear": 1433,
     "dailyMinutesDown": {
+      "2022-08-25": 1,
       "2022-08-18": 33,
       "2022-08-14": 36,
       "2022-08-09": 35,
@@ -177,8 +178,7 @@
       "2022-03-01": 34,
       "2022-02-17": 31,
       "2022-02-15": 22,
-      "2022-02-01": 59,
-      "2022-01-31": 18
+      "2022-02-01": 59
     }
   },
   {
@@ -186,12 +186,12 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "96.29%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "96.26%",
     "uptimeWeek": "99.24%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "99.49%",
     "time": 2492,
     "timeDay": 3184,
     "timeWeek": 2419,
@@ -269,7 +269,7 @@
       "2022-03-21": 24,
       "2022-03-16": 16,
       "2022-03-14": 25,
-      "2022-03-12": 62
+      "2022-03-12": 20
     }
   },
   {
@@ -281,12 +281,12 @@
     "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.79%",
-    "uptimeMonth": "96.34%",
+    "uptimeMonth": "96.50%",
     "uptimeYear": "99.22%",
     "time": 917,
     "timeDay": 786,
     "timeWeek": 896,
-    "timeMonth": 937,
+    "timeMonth": 940,
     "timeYear": 912,
     "dailyMinutesDown": {
       "2022-08-24": 122,
@@ -343,7 +343,7 @@
     "timeDay": 991,
     "timeWeek": 1130,
     "timeMonth": 1280,
-    "timeYear": 1417,
+    "timeYear": 1418,
     "dailyMinutesDown": {
       "2022-08-19": 20,
       "2022-08-04": 44,
