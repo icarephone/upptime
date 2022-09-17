@@ -4,18 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.icarephone.com.ico",
     "slug": "icarephone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 1383,
     "timeDay": 1067,
     "timeWeek": 1403,
     "timeMonth": 1034,
     "timeYear": 1205,
     "dailyMinutesDown": {
+      "2022-09-17": 1,
       "2022-09-13": 22,
       "2022-09-09": 27,
       "2022-09-08": 22,
@@ -92,7 +93,7 @@
       "2022-02-17": 31,
       "2022-02-16": 21,
       "2022-02-15": 22,
-      "2022-02-09": 69
+      "2022-02-09": 37
     }
   },
   {
@@ -100,18 +101,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.43%",
     "time": 1434,
     "timeDay": 1649,
     "timeWeek": 1456,
     "timeMonth": 1341,
-    "timeYear": 1458,
+    "timeYear": 1450,
     "dailyMinutesDown": {
+      "2022-09-17": 1,
       "2022-09-12": 34,
       "2022-09-09": 44,
       "2022-09-03": 33,
@@ -180,7 +182,7 @@
       "2022-03-31": 32,
       "2022-03-29": 20,
       "2022-03-14": 17,
-      "2022-03-01": 34
+      "2022-03-01": 19
     }
   },
   {
@@ -333,17 +335,16 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.47%",
     "time": 1424,
     "timeDay": 1720,
-    "timeWeek": 1505,
+    "timeWeek": 1368,
     "timeMonth": 1379,
-    "timeYear": 1446,
+    "timeYear": 1448,
     "dailyMinutesDown": {
-      "2022-09-17": 15,
       "2022-09-10": 15,
       "2022-09-08": 34,
       "2022-09-06": 22,
@@ -416,7 +417,8 @@
       "2022-02-17": 30,
       "2022-02-01": 18,
       "2022-01-31": 19,
-      "2022-01-24": 74
+      "2022-01-24": 74,
+      "2022-01-23": 21
     }
   }
 ]
