@@ -4,18 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.icarephone.com.ico",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.78%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.44%",
+    "uptimeYear": "99.45%",
     "time": 1352,
-    "timeDay": 1061,
+    "timeDay": 984,
     "timeWeek": 1327,
     "timeMonth": 1034,
     "timeYear": 1206,
     "dailyMinutesDown": {
+      "2022-09-18": 1,
       "2022-09-13": 22,
       "2022-09-09": 27,
       "2022-09-08": 22,
@@ -92,7 +93,7 @@
       "2022-02-17": 31,
       "2022-02-16": 21,
       "2022-02-15": 22,
-      "2022-02-09": 69
+      "2022-02-09": 37
     }
   },
   {
@@ -100,19 +101,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "98.73%",
+    "uptimeDay": "98.68%",
     "uptimeWeek": "99.48%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.43%",
-    "time": 1432,
-    "timeDay": 1186,
+    "time": 1447,
+    "timeDay": 1120,
     "timeWeek": 1382,
-    "timeMonth": 1347,
-    "timeYear": 1454,
+    "timeMonth": 1356,
+    "timeYear": 1455,
     "dailyMinutesDown": {
-      "2022-09-18": 18,
+      "2022-09-18": 19,
       "2022-09-12": 34,
       "2022-09-09": 44,
       "2022-09-03": 33,
@@ -180,8 +181,7 @@
       "2022-04-13": 34,
       "2022-03-31": 32,
       "2022-03-29": 20,
-      "2022-03-14": 17,
-      "2022-03-01": 19
+      "2022-03-14": 17
     }
   },
   {
@@ -198,7 +198,7 @@
     "time": 2469,
     "timeDay": 1873,
     "timeWeek": 2503,
-    "timeMonth": 2415,
+    "timeMonth": 2425,
     "timeYear": 2483,
     "dailyMinutesDown": {
       "2022-09-17": 15,
@@ -342,7 +342,7 @@
     "timeDay": 2041,
     "timeWeek": 1536,
     "timeMonth": 1415,
-    "timeYear": 1452,
+    "timeYear": 1453,
     "dailyMinutesDown": {
       "2022-09-18": 66,
       "2022-09-10": 15,
