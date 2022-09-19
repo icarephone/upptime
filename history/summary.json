@@ -14,7 +14,7 @@
     "timeDay": 1067,
     "timeWeek": 1295,
     "timeMonth": 1046,
-    "timeYear": 1209,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2022-09-18": 20,
       "2022-09-13": 22,
@@ -101,18 +101,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "97.39%",
-    "uptimeWeek": "99.29%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.62%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.43%",
     "time": 1447,
-    "timeDay": 1336,
-    "timeWeek": 1356,
+    "timeDay": 1287,
+    "timeWeek": 1366,
     "timeMonth": 1356,
     "timeYear": 1438,
     "dailyMinutesDown": {
+      "2022-09-19": 1,
       "2022-09-18": 37,
       "2022-09-12": 34,
       "2022-09-09": 44,
@@ -180,8 +181,7 @@
       "2022-04-21": 21,
       "2022-04-13": 34,
       "2022-03-31": 32,
-      "2022-03-29": 20,
-      "2022-03-14": 17
+      "2022-03-29": 20
     }
   },
   {
@@ -189,18 +189,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.57%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.13%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.48%",
-    "time": 2468,
+    "time": 2469,
     "timeDay": 2108,
-    "timeWeek": 2474,
+    "timeWeek": 2473,
     "timeMonth": 2414,
-    "timeYear": 2488,
+    "timeYear": 2487,
     "dailyMinutesDown": {
+      "2022-09-19": 0,
       "2022-09-17": 15,
       "2022-09-14": 50,
       "2022-09-13": 121,
@@ -267,8 +268,7 @@
       "2022-05-07": 25,
       "2022-05-05": 26,
       "2022-05-02": 41,
-      "2022-04-26": 29,
-      "2022-04-24": 29
+      "2022-04-26": 29
     }
   },
   {
@@ -279,7 +279,7 @@
     "status": "up",
     "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.22%",
     "time": 923,
@@ -342,7 +342,7 @@
     "timeDay": 1299,
     "timeWeek": 1495,
     "timeMonth": 1410,
-    "timeYear": 1454,
+    "timeYear": 1456,
     "dailyMinutesDown": {
       "2022-09-19": 32,
       "2022-09-18": 66,
