@@ -189,10 +189,10 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.46%",
     "time": 2497,
@@ -201,6 +201,7 @@
     "timeMonth": 2336,
     "timeYear": 2519,
     "dailyMinutesDown": {
+      "2022-11-16": 0,
       "2022-11-14": 29,
       "2022-11-10": 18,
       "2022-11-07": 32,
@@ -270,8 +271,7 @@
       "2022-06-07": 23,
       "2022-06-06": 96,
       "2022-06-05": 32,
-      "2022-06-04": 51,
-      "2022-06-03": 20
+      "2022-06-04": 51
     }
   },
   {
