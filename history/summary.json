@@ -6,9 +6,9 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.16%",
     "uptimeYear": "99.44%",
     "time": 1153,
     "timeDay": 915,
@@ -16,7 +16,6 @@
     "timeMonth": 1017,
     "timeYear": 1166,
     "dailyMinutesDown": {
-      "2022-12-26": 11,
       "2022-12-23": 25,
       "2022-12-18": 18,
       "2022-12-14": 15,
@@ -95,7 +94,8 @@
       "2022-05-28": 29,
       "2022-05-27": 32,
       "2022-05-26": 96,
-      "2022-05-21": 53
+      "2022-05-21": 53,
+      "2022-05-20": 19
     }
   },
   {
@@ -103,18 +103,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "99.44%",
-    "time": 1408,
+    "uptimeYear": "99.45%",
+    "time": 1409,
     "timeDay": 1158,
     "timeWeek": 1278,
     "timeMonth": 1235,
     "timeYear": 1416,
     "dailyMinutesDown": {
+      "2022-12-26": 0,
       "2022-12-24": 23,
       "2022-12-22": 18,
       "2022-12-17": 19,
@@ -184,8 +185,7 @@
       "2022-06-06": 71,
       "2022-06-05": 48,
       "2022-06-04": 44,
-      "2022-06-03": 22,
-      "2022-06-01": 17
+      "2022-06-03": 22
     }
   },
   {
@@ -341,17 +341,16 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.43%",
     "time": 1395,
     "timeDay": 1078,
     "timeWeek": 1243,
     "timeMonth": 1259,
-    "timeYear": 1413,
+    "timeYear": 1414,
     "dailyMinutesDown": {
-      "2022-12-26": 11,
       "2022-12-13": 19,
       "2022-12-04": 24,
       "2022-11-28": 36,
@@ -427,7 +426,8 @@
       "2022-04-26": 48,
       "2022-04-21": 24,
       "2022-04-19": 91,
-      "2022-04-14": 32
+      "2022-04-14": 32,
+      "2022-04-12": 29
     }
   }
 ]
