@@ -4,18 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.icarephone.com.ico",
     "slug": "icarephone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.61%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.60%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.44%",
-    "time": 1152,
-    "timeDay": 1279,
-    "timeWeek": 1218,
+    "uptimeYear": "99.45%",
+    "time": 1151,
+    "timeDay": 1132,
+    "timeWeek": 1241,
     "timeMonth": 1049,
     "timeYear": 1173,
     "dailyMinutesDown": {
+      "2023-01-21": 1,
       "2023-01-20": 19,
       "2023-01-17": 20,
       "2023-01-06": 20,
@@ -96,7 +97,7 @@
       "2022-05-29": 28,
       "2022-05-28": 29,
       "2022-05-27": 32,
-      "2022-05-26": 96
+      "2022-05-26": 41
     }
   },
   {
@@ -104,18 +105,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "98.75%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.45%",
-    "time": 1394,
+    "uptimeYear": "99.46%",
+    "time": 1395,
     "timeDay": 1431,
     "timeWeek": 1292,
     "timeMonth": 1237,
     "timeYear": 1398,
     "dailyMinutesDown": {
+      "2023-01-21": 0,
       "2023-01-20": 18,
       "2023-01-17": 58,
       "2023-01-15": 19,
@@ -186,8 +188,7 @@
       "2022-06-13": 134,
       "2022-06-12": 21,
       "2022-06-11": 23,
-      "2022-06-10": 129,
-      "2022-06-07": 40
+      "2022-06-10": 129
     }
   },
   {
@@ -344,9 +345,9 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.43%",
     "time": 1392,
     "timeDay": 1040,
@@ -354,7 +355,6 @@
     "timeMonth": 1166,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2023-01-21": 11,
       "2023-01-05": 34,
       "2022-12-13": 19,
       "2022-12-04": 24,
@@ -430,7 +430,8 @@
       "2022-04-27": 26,
       "2022-04-26": 48,
       "2022-04-21": 24,
-      "2022-04-19": 91
+      "2022-04-19": 91,
+      "2022-04-14": 32
     }
   }
 ]
