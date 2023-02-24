@@ -13,7 +13,7 @@
     "time": 1186,
     "timeDay": 1415,
     "timeWeek": 1430,
-    "timeMonth": 1230,
+    "timeMonth": 1237,
     "timeYear": 1190,
     "dailyMinutesDown": {
       "2023-02-22": 22,
@@ -105,18 +105,19 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.47%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.48%",
     "time": 1402,
     "timeDay": 1262,
     "timeWeek": 1382,
-    "timeMonth": 1319,
-    "timeYear": 1330,
+    "timeMonth": 1318,
+    "timeYear": 1331,
     "dailyMinutesDown": {
+      "2023-02-24": 1,
       "2023-02-19": 27,
       "2023-02-13": 38,
       "2023-02-12": 44,
@@ -190,7 +191,7 @@
       "2022-06-16": 25,
       "2022-06-15": 33,
       "2022-06-14": 97,
-      "2022-06-13": 49
+      "2022-06-13": 22
     }
   },
   {
@@ -198,11 +199,11 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.46%",
     "time": 2520,
     "timeDay": 2403,
@@ -210,6 +211,7 @@
     "timeMonth": 2398,
     "timeYear": 2522,
     "dailyMinutesDown": {
+      "2023-02-24": 1,
       "2023-02-21": 41,
       "2023-01-23": 22,
       "2022-11-23": 21,
@@ -282,8 +284,7 @@
       "2022-06-16": 54,
       "2022-06-12": 41,
       "2022-06-10": 110,
-      "2022-06-08": 40,
-      "2022-06-07": 23
+      "2022-06-08": 40
     }
   },
   {
@@ -348,10 +349,10 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.44%",
     "time": 1406,
@@ -360,6 +361,7 @@
     "timeMonth": 1465,
     "timeYear": 1372,
     "dailyMinutesDown": {
+      "2023-02-24": 1,
       "2023-02-21": 41,
       "2023-02-03": 39,
       "2023-01-31": 21,
@@ -436,7 +438,7 @@
       "2022-05-02": 25,
       "2022-04-29": 28,
       "2022-04-27": 26,
-      "2022-04-26": 48
+      "2022-04-26": 20
     }
   }
 ]
