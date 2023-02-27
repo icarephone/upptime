@@ -104,10 +104,10 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "69.62%",
-    "uptimeWeek": "95.66%",
+    "uptimeDay": "69.53%",
+    "uptimeWeek": "95.65%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.40%",
     "time": 1403,
@@ -116,7 +116,7 @@
     "timeMonth": 1376,
     "timeYear": 1334,
     "dailyMinutesDown": {
-      "2023-02-27": 438,
+      "2023-02-27": 439,
       "2023-02-19": 27,
       "2023-02-13": 38,
       "2023-02-12": 44,
@@ -189,8 +189,7 @@
       "2022-06-21": 29,
       "2022-06-16": 25,
       "2022-06-15": 33,
-      "2022-06-14": 97,
-      "2022-06-13": 22
+      "2022-06-14": 97
     }
   },
   {
@@ -198,10 +197,10 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "97.70%",
-    "uptimeWeek": "99.27%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.46%",
     "time": 2532,
@@ -210,7 +209,7 @@
     "timeMonth": 2583,
     "timeYear": 2531,
     "dailyMinutesDown": {
-      "2023-02-27": 33,
+      "2023-02-27": 34,
       "2023-02-21": 41,
       "2023-01-23": 22,
       "2022-11-23": 21,
@@ -282,8 +281,7 @@
       "2022-06-17": 65,
       "2022-06-16": 54,
       "2022-06-12": 41,
-      "2022-06-10": 110,
-      "2022-06-08": 40
+      "2022-06-10": 110
     }
   },
   {
@@ -348,10 +346,10 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.60%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.59%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.44%",
     "time": 1399,
@@ -360,6 +358,7 @@
     "timeMonth": 1481,
     "timeYear": 1359,
     "dailyMinutesDown": {
+      "2023-02-27": 0,
       "2023-02-21": 41,
       "2023-02-03": 39,
       "2023-01-31": 21,
@@ -436,7 +435,7 @@
       "2022-05-02": 25,
       "2022-04-29": 28,
       "2022-04-27": 26,
-      "2022-04-26": 48
+      "2022-04-26": 20
     }
   }
 ]
