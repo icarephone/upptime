@@ -348,12 +348,12 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "97.24%",
+    "uptimeDay": "97.21%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "99.43%",
+    "uptimeYear": "99.44%",
     "time": 1414,
     "timeDay": 1387,
     "timeWeek": 1715,
@@ -434,8 +434,7 @@
       "2022-05-19": 31,
       "2022-05-18": 135,
       "2022-05-17": 55,
-      "2022-05-16": 64,
-      "2022-05-14": 38
+      "2022-05-16": 64
     }
   }
 ]
