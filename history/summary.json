@@ -6,7 +6,7 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "15.80%",
+    "uptimeDay": "21.94%",
     "uptimeWeek": "82.16%",
     "uptimeMonth": "95.60%",
     "uptimeYear": "99.13%",
@@ -200,7 +200,7 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "1.28%",
+    "uptimeDay": "7.43%",
     "uptimeWeek": "79.99%",
     "uptimeMonth": "94.85%",
     "uptimeYear": "99.08%",
@@ -352,10 +352,10 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "95.63%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "95.62%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.45%",
     "time": 1408,
@@ -364,7 +364,7 @@
     "timeMonth": 1429,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2023-03-17": 44,
+      "2023-03-17": 45,
       "2023-03-16": 89,
       "2023-03-15": 135,
       "2023-03-14": 133,
@@ -437,7 +437,7 @@
       "2022-05-26": 51,
       "2022-05-25": 26,
       "2022-05-24": 62,
-      "2022-05-23": 57
+      "2022-05-23": 33
     }
   }
 ]
