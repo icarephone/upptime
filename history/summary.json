@@ -6,7 +6,7 @@
     "slug": "icarephone",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "69.53%",
+    "uptimeDay": "84.30%",
     "uptimeWeek": "82.16%",
     "uptimeMonth": "95.60%",
     "uptimeYear": "99.13%",
@@ -113,7 +113,7 @@
     "uptimeMonth": "97.95%",
     "uptimeYear": "99.41%",
     "time": 1442,
-    "timeDay": 1639,
+    "timeDay": 1620,
     "timeWeek": 1489,
     "timeMonth": 1826,
     "timeYear": 1383,
@@ -198,18 +198,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "55.00%",
-    "uptimeWeek": "79.99%",
+    "uptimeDay": "69.76%",
+    "uptimeWeek": "79.98%",
     "uptimeMonth": "94.85%",
-    "uptimeYear": "99.08%",
-    "time": 2528,
+    "uptimeYear": "99.09%",
+    "time": 2529,
     "timeDay": 2759,
     "timeWeek": 2671,
     "timeMonth": 2785,
     "timeYear": 2545,
     "dailyMinutesDown": {
+      "2023-03-18": 0,
       "2023-03-17": 1094,
       "2023-03-16": 897,
       "2023-03-15": 26,
@@ -285,8 +286,7 @@
       "2022-06-25": 23,
       "2022-06-24": 18,
       "2022-06-21": 70,
-      "2022-06-17": 65,
-      "2022-06-16": 27
+      "2022-06-17": 65
     }
   },
   {
@@ -354,17 +354,16 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "94.60%",
-    "uptimeWeek": "95.29%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "95.37%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.45%",
     "time": 1405,
-    "timeDay": 1278,
+    "timeDay": 1218,
     "timeWeek": 1314,
     "timeMonth": 1426,
     "timeYear": 1373,
     "dailyMinutesDown": {
-      "2023-03-18": 11,
       "2023-03-17": 67,
       "2023-03-16": 89,
       "2023-03-15": 135,
@@ -437,7 +436,8 @@
       "2022-05-28": 76,
       "2022-05-26": 51,
       "2022-05-25": 26,
-      "2022-05-24": 62
+      "2022-05-24": 62,
+      "2022-05-23": 33
     }
   }
 ]
