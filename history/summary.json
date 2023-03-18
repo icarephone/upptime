@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.icarephone.com.ico",
     "slug": "icarephone",
     "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "60.57%",
-    "uptimeWeek": "82.05%",
-    "uptimeMonth": "95.57%",
-    "uptimeYear": "99.15%",
+    "uptime": "99.60%",
+    "uptimeDay": "68.75%",
+    "uptimeWeek": "82.16%",
+    "uptimeMonth": "95.60%",
+    "uptimeYear": "99.13%",
     "time": 1232,
     "timeDay": 2487,
     "timeWeek": 1450,
     "timeMonth": 1770,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2023-03-18": 12,
       "2023-03-17": 885,
       "2023-03-16": 898,
       "2023-03-14": 15,
@@ -98,7 +97,8 @@
       "2022-06-14": 17,
       "2022-06-13": 47,
       "2022-06-08": 21,
-      "2022-06-07": 193
+      "2022-06-07": 193,
+      "2022-06-06": 158
     }
   },
   {
@@ -200,7 +200,7 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "46.85%",
+    "uptimeDay": "54.22%",
     "uptimeWeek": "79.99%",
     "uptimeMonth": "94.85%",
     "uptimeYear": "99.08%",
@@ -352,18 +352,19 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "95.37%",
+    "uptimeDay": "95.35%",
     "uptimeWeek": "95.40%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 1405,
     "timeDay": 1279,
     "timeWeek": 1315,
     "timeMonth": 1428,
     "timeYear": 1374,
     "dailyMinutesDown": {
+      "2023-03-18": 0,
       "2023-03-17": 67,
       "2023-03-16": 89,
       "2023-03-15": 135,
@@ -436,8 +437,7 @@
       "2022-05-28": 76,
       "2022-05-26": 51,
       "2022-05-25": 26,
-      "2022-05-24": 62,
-      "2022-05-23": 33
+      "2022-05-24": 62
     }
   }
 ]
