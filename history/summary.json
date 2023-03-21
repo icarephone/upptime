@@ -108,17 +108,16 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "96.04%",
-    "uptimeMonth": "97.58%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "96.16%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "99.42%",
     "time": 1440,
     "timeDay": 1406,
-    "timeWeek": 1444,
+    "timeWeek": 1461,
     "timeMonth": 1786,
     "timeYear": 1384,
     "dailyMinutesDown": {
-      "2023-03-21": 11,
       "2023-03-20": 55,
       "2023-03-19": 99,
       "2023-03-18": 23,
@@ -188,7 +187,7 @@
       "2022-07-27": 22,
       "2022-07-25": 29,
       "2022-07-22": 31,
-      "2022-07-21": 19
+      "2022-07-21": 39
     }
   },
   {
@@ -198,12 +197,12 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "79.03%",
     "uptimeMonth": "94.63%",
     "uptimeYear": "99.10%",
     "time": 2532,
-    "timeDay": 2121,
+    "timeDay": 1814,
     "timeWeek": 2504,
     "timeMonth": 2725,
     "timeYear": 2539,
@@ -350,15 +349,15 @@
     "url": "$SECRET_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "90.78%",
-    "uptimeWeek": "95.05%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "95.27%",
     "uptimeMonth": "97.90%",
     "uptimeYear": "99.46%",
-    "time": 1409,
+    "time": 1410,
     "timeDay": 1444,
-    "timeWeek": 1370,
+    "timeWeek": 1376,
     "timeMonth": 1441,
     "timeYear": 1378,
     "dailyMinutesDown": {
@@ -434,7 +433,7 @@
       "2022-06-02": 16,
       "2022-06-01": 29,
       "2022-05-31": 65,
-      "2022-05-28": 45
+      "2022-05-28": 18
     }
   }
 ]
