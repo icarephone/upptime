@@ -4,18 +4,19 @@
     "url": "https://www.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.icarephone.com.ico",
     "slug": "icarephone",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "82.31%",
     "uptimeMonth": "95.60%",
-    "uptimeYear": "99.13%",
-    "time": 1235,
+    "uptimeYear": "99.16%",
+    "time": 1236,
     "timeDay": 1417,
     "timeWeek": 1468,
-    "timeMonth": 1745,
-    "timeYear": 1220,
+    "timeMonth": 1715,
+    "timeYear": 1218,
     "dailyMinutesDown": {
+      "2023-03-22": 0,
       "2023-03-17": 885,
       "2023-03-16": 898,
       "2023-03-14": 15,
@@ -97,8 +98,7 @@
       "2022-06-14": 17,
       "2022-06-13": 47,
       "2022-06-08": 21,
-      "2022-06-07": 193,
-      "2022-06-06": 158
+      "2022-06-07": 193
     }
   },
   {
@@ -116,7 +116,7 @@
     "timeDay": 1272,
     "timeWeek": 1439,
     "timeMonth": 1768,
-    "timeYear": 1383,
+    "timeYear": 1382,
     "dailyMinutesDown": {
       "2023-03-22": 28,
       "2023-03-21": 21,
@@ -198,9 +198,9 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "79.17%",
-    "uptimeMonth": "94.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "79.29%",
+    "uptimeMonth": "94.72%",
     "uptimeYear": "99.10%",
     "time": 2535,
     "timeDay": 2819,
@@ -208,7 +208,6 @@
     "timeMonth": 2747,
     "timeYear": 2542,
     "dailyMinutesDown": {
-      "2023-03-22": 12,
       "2023-03-20": 42,
       "2023-03-19": 21,
       "2023-03-18": 34,
@@ -284,7 +283,8 @@
       "2022-07-01": 22,
       "2022-06-30": 35,
       "2022-06-26": 20,
-      "2022-06-25": 23
+      "2022-06-25": 23,
+      "2022-06-24": 18
     }
   },
   {
@@ -299,7 +299,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.99%",
     "time": 941,
-    "timeDay": 1192,
+    "timeDay": 1540,
     "timeWeek": 1050,
     "timeMonth": 998,
     "timeYear": 956,
@@ -352,14 +352,14 @@
     "slug": "secret-site",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "95.79%",
+    "uptimeDay": "96.94%",
     "uptimeWeek": "95.65%",
     "uptimeMonth": "97.82%",
     "uptimeYear": "99.47%",
     "time": 1410,
-    "timeDay": 1303,
+    "timeDay": 1290,
     "timeWeek": 1343,
-    "timeMonth": 1429,
+    "timeMonth": 1408,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2023-03-22": 24,
