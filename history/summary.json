@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.icarephone.com.ico",
     "slug": "icarephone",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "82.21%",
-    "uptimeMonth": "95.57%",
-    "uptimeYear": "99.15%",
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "82.31%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "99.13%",
     "time": 1236,
     "timeDay": 1407,
-    "timeWeek": 1464,
-    "timeMonth": 1710,
+    "timeWeek": 1506,
+    "timeMonth": 1726,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2023-03-22": 10,
       "2023-03-17": 885,
       "2023-03-16": 898,
       "2023-03-14": 15,
@@ -98,7 +97,8 @@
       "2022-06-14": 17,
       "2022-06-13": 47,
       "2022-06-08": 21,
-      "2022-06-07": 193
+      "2022-06-07": 193,
+      "2022-06-06": 158
     }
   },
   {
@@ -113,7 +113,7 @@
     "uptimeMonth": "97.50%",
     "uptimeYear": "99.42%",
     "time": 1437,
-    "timeDay": 1272,
+    "timeDay": 1279,
     "timeWeek": 1439,
     "timeMonth": 1768,
     "timeYear": 1382,
@@ -196,18 +196,19 @@
     "url": "https://proxy.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.icarephone.com.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "79.29%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "79.28%",
     "uptimeMonth": "94.72%",
     "uptimeYear": "99.10%",
-    "time": 2535,
+    "time": 2534,
     "timeDay": 2819,
     "timeWeek": 2487,
     "timeMonth": 2747,
     "timeYear": 2542,
     "dailyMinutesDown": {
+      "2023-03-22": 0,
       "2023-03-20": 42,
       "2023-03-19": 21,
       "2023-03-18": 34,
@@ -283,8 +284,7 @@
       "2022-07-01": 22,
       "2022-06-30": 35,
       "2022-06-26": 20,
-      "2022-06-25": 23,
-      "2022-06-24": 18
+      "2022-06-25": 23
     }
   },
   {
@@ -358,7 +358,7 @@
     "uptimeYear": "99.47%",
     "time": 1410,
     "timeDay": 1290,
-    "timeWeek": 1343,
+    "timeWeek": 1337,
     "timeMonth": 1408,
     "timeYear": 1377,
     "dailyMinutesDown": {
