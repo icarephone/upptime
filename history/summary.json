@@ -106,9 +106,9 @@
     "url": "https://git.icarephone.com",
     "icon": "https://icons.duckduckgo.com/ip3/git.icarephone.com.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "98.84%",
+    "uptimeDay": "98.83%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "99.42%",
@@ -182,8 +182,7 @@
       "2022-09-12": 34,
       "2022-09-09": 44,
       "2022-09-03": 33,
-      "2022-08-28": 31,
-      "2022-08-25": 17
+      "2022-08-28": 31
     }
   },
   {
@@ -353,7 +352,7 @@
     "time": 1409,
     "timeDay": 1372,
     "timeWeek": 1310,
-    "timeMonth": 1371,
+    "timeMonth": 1372,
     "timeYear": 1368,
     "dailyMinutesDown": {
       "2023-04-02": 53,
